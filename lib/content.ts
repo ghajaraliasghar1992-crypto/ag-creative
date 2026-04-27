@@ -1,8 +1,5 @@
 /**
  * CMS-READY CONTENT MODELS + SAMPLE CONTENT
- *
- * Replace or map this file to your future CMS provider (e.g. Sanity, Contentful)
- * when you are ready. All site pages read from these typed objects.
  */
 
 export type SeoFields = {
@@ -47,10 +44,6 @@ export type BlogPost = {
   seo: SeoFields;
 };
 
-/**
- * EDIT CATEGORIES HERE:
- * Add or remove categories that can be reused by case studies and blog posts.
- */
 export const categories: Category[] = [
   { id: "social-growth", name: "Social Growth", slug: "social-growth" },
   { id: "content-strategy", name: "Content Strategy", slug: "content-strategy" },
@@ -59,13 +52,6 @@ export const categories: Category[] = [
   { id: "marketing-insights", name: "Marketing Insights", slug: "marketing-insights" }
 ];
 
-/**
- * EDIT CASE STUDIES HERE:
- * - problem, strategy, execution, outcomes, whatMadeItWork
- * - keyResult + services (shown in card + featured areas)
- * - featuredImage (URL or future CMS image object)
- * - categoryIds + SEO fields
- */
 export const caseStudies: CaseStudy[] = [
   {
     id: "kits-uk-social-growth",
@@ -80,7 +66,8 @@ export const caseStudies: CaseStudy[] = [
     publishedAt: "2026-01-12",
     seo: {
       title: "KITS UK Social Growth Case Study | AG Creative",
-      description: "How AG Creative built a social growth engine that increased reach, clicks, and pipeline quality for KITS UK."
+      description:
+        "How AG Creative built a social growth engine that increased reach, clicks, and pipeline quality for KITS UK."
     },
     problem:
       "KITS UK had consistent output but weak compounding performance: content reached audiences, yet too little of that attention moved into qualified site traffic and sales conversations.",
@@ -121,7 +108,8 @@ export const caseStudies: CaseStudy[] = [
     publishedAt: "2025-11-02",
     seo: {
       title: "Automotive Content Strategy Case Study | AG Creative",
-      description: "How AG Creative rebuilt an automotive content strategy to increase watch time and qualified lead flow."
+      description:
+        "How AG Creative rebuilt an automotive content strategy to increase watch time and qualified lead flow."
     },
     problem:
       "The brand had strong visual assets but fragmented messaging across channels, which led to high output and low momentum.",
@@ -161,7 +149,8 @@ export const caseStudies: CaseStudy[] = [
     publishedAt: "2025-08-19",
     seo: {
       title: "Bongereh Brand Awareness Case Study | AG Creative",
-      description: "How AG Creative increased reach, branded search demand, and creator mentions for Bongereh."
+      description:
+        "How AG Creative increased reach, branded search demand, and creator mentions for Bongereh."
     },
     problem:
       "Bongereh operated in a saturated category where generic messaging made it difficult to build distinction or recall.",
@@ -201,16 +190,17 @@ export const caseStudies: CaseStudy[] = [
     publishedAt: "2025-06-14",
     seo: {
       title: "SEO & Conversion Optimisation Case Study | AG Creative",
-      description: "How AG Creative linked SEO strategy with conversion optimisation to increase revenue from organic acquisition."
+      description:
+        "How AG Creative linked SEO strategy with conversion optimisation to increase revenue from organic acquisition."
     },
     problem:
-      "Organic traffic was growing, but revenue lagged because high-intent pages were under-optimized and content paths leaked demand.",
+      "Organic traffic was growing, but revenue lagged because high-intent pages were under-optimised and content paths leaked demand.",
     keyResult: "+91% organic SQL volume and +38% organic revenue in 6 months.",
     services: ["SEO Strategy", "Content Systems", "CRO", "Landing Page Optimisation"],
     strategy: [
       "Segmented keyword universe by commercial intent, not just volume.",
       "Designed pillar/cluster content around buying-stage friction points.",
-      "Prioritized page templates with direct conversion opportunities."
+      "Prioritised page templates with direct conversion opportunities."
     ],
     execution: [
       "Rebuilt key landing pages with tighter messaging hierarchy and proof.",
@@ -224,18 +214,12 @@ export const caseStudies: CaseStudy[] = [
     ],
     whatMadeItWork: [
       "SEO and CRO planned as one system instead of separate channels",
-      "Intent-driven content prioritization",
+      "Intent-driven content prioritisation",
       "Consistent experimentation on page-level conversion bottlenecks"
     ]
   }
 ];
 
-/**
- * EDIT BLOG POSTS HERE:
- * - title, excerpt, body
- * - featuredImage (URL or future CMS image object)
- * - categoryIds + SEO fields
- */
 export const blogPosts: BlogPost[] = [
   {
     id: "how-short-form-content-drives-brand-growth",
@@ -254,7 +238,8 @@ export const blogPosts: BlogPost[] = [
     publishedAt: "2026-02-05",
     seo: {
       title: "How Short-Form Content Drives Brand Growth | AG Creative",
-      description: "Practical insights for turning short-form creative into real growth outcomes."
+      description:
+        "Practical insights for turning short-form creative into real growth outcomes."
     }
   },
   {
@@ -274,7 +259,8 @@ export const blogPosts: BlogPost[] = [
     publishedAt: "2026-01-18",
     seo: {
       title: "Why Case Studies Matter for Marketers | AG Creative",
-      description: "Learn why case studies are one of the highest-leverage assets in a growth marketing portfolio."
+      description:
+        "Learn why case studies are one of the highest-leverage assets in a growth marketing portfolio."
     }
   },
   {
@@ -294,7 +280,8 @@ export const blogPosts: BlogPost[] = [
     publishedAt: "2025-12-09",
     seo: {
       title: "Building a Growth Marketing Portfolio | AG Creative",
-      description: "A practical structure for creating a portfolio that attracts better clients and opportunities."
+      description:
+        "A practical structure for creating a portfolio that attracts better clients and opportunities."
     }
   }
 ];
@@ -315,4 +302,5 @@ export const caseStudyMetrics = [
 export const getCategoryName = (categoryId: string) =>
   categories.find((category) => category.id === categoryId)?.name ?? "General";
 
-export const getPrimaryCategory = (categoryIds: string[]) => getCategoryName(categoryIds[0]);
+export const getPrimaryCategory = (categoryIds: string[]) =>
+  getCategoryName(categoryIds[0]);
