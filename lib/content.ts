@@ -1,8 +1,5 @@
 /**
  * CMS-READY CONTENT MODELS + SAMPLE CONTENT
- *
- * Replace or map this file to your future CMS provider (e.g. Sanity, Contentful)
- * when you are ready. All site pages read from these typed objects.
  */
 
 export type SeoFields = {
@@ -26,9 +23,13 @@ export type CaseStudy = {
   categoryIds: string[];
   publishedAt: string;
   seo: SeoFields;
-  challenge: string;
-  approach: string;
+  problem: string;
+  keyResult: string;
+  services: string[];
+  strategy: string[];
+  execution: string[];
   outcomes: string[];
+  whatMadeItWork: string[];
 };
 
 export type BlogPost = {
@@ -43,23 +44,14 @@ export type BlogPost = {
   seo: SeoFields;
 };
 
-/**
- * EDIT CATEGORIES HERE:
- * Add or remove categories that can be reused by case studies and blog posts.
- */
 export const categories: Category[] = [
   { id: "social-growth", name: "Social Growth", slug: "social-growth" },
   { id: "content-strategy", name: "Content Strategy", slug: "content-strategy" },
   { id: "brand-awareness", name: "Brand Awareness", slug: "brand-awareness" },
+  { id: "seo-cro", name: "SEO & CRO", slug: "seo-cro" },
   { id: "marketing-insights", name: "Marketing Insights", slug: "marketing-insights" }
 ];
 
-/**
- * EDIT CASE STUDIES HERE:
- * - title, summary, challenge, approach, outcomes
- * - featuredImage (URL or future CMS image object)
- * - categoryIds + SEO fields
- */
 export const caseStudies: CaseStudy[] = [
   {
     id: "kits-uk-social-growth",
@@ -67,23 +59,40 @@ export const caseStudies: CaseStudy[] = [
     title: "KITS UK Social Growth",
     client: "KITS UK",
     summary:
-      "Scaled social-first acquisition by pairing rapid creative testing with weekly performance loops.",
+      "Scaled social-led demand by building a repeatable short-form content system that converted attention into pipeline.",
     featuredImage:
       "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1200&q=80",
     categoryIds: ["social-growth", "content-strategy"],
     publishedAt: "2026-01-12",
     seo: {
       title: "KITS UK Social Growth Case Study | AG Creative",
-      description: "How AG Creative helped KITS UK grow social reach and pipeline with iterative short-form campaigns."
+      description:
+        "How AG Creative built a social growth engine that increased reach, clicks, and pipeline quality for KITS UK."
     },
-    challenge:
-      "KITS UK needed to convert consistent posting into measurable pipeline without increasing production overhead.",
-    approach:
-      "We built a content operating system: hypothesis-led hooks, a modular edit style, and weekly creative sprints aligned with channel KPIs.",
+    problem:
+      "KITS UK had consistent output but weak compounding performance: content reached audiences, yet too little of that attention moved into qualified site traffic and sales conversations.",
+    keyResult: "3.2x organic reach in 90 days and 42% higher profile-to-site CTR.",
+    services: ["Content Strategy", "Short-Form Creative", "Social Growth", "Performance Reporting"],
+    strategy: [
+      "Reframed social from posting calendar to growth system with clear weekly KPIs.",
+      "Built a hook-and-angle matrix tied to audience pains across the funnel.",
+      "Connected organic signals directly to paid creative testing priorities."
+    ],
+    execution: [
+      "Launched weekly sprint cycles with rapid concept, edit, and publish workflows.",
+      "Introduced modular templates to increase speed without lowering creative quality.",
+      "Set up win/loss tracking to identify which creative patterns drove clicks and intent."
+    ],
     outcomes: [
       "3.2x increase in organic reach in 90 days",
       "42% lift in profile-to-site click-through rate",
-      "Improved paid social efficiency through top-performing organic concepts"
+      "Lower paid CAC by recycling top-performing organic concepts",
+      "Clearer content-to-pipeline reporting for leadership"
+    ],
+    whatMadeItWork: [
+      "Relentless creative iteration, not one-off campaign bets",
+      "Tight loop between strategy, production, and reporting",
+      "Messaging architecture aligned with buyer objections"
     ]
   },
   {
@@ -92,23 +101,39 @@ export const caseStudies: CaseStudy[] = [
     title: "Automotive Content Strategy",
     client: "Confidential Automotive Brand",
     summary:
-      "Built a full-funnel content strategy that moved from product-led messaging to audience-led storytelling.",
+      "Shifted from product-heavy posts to audience-led storytelling that improved engagement quality and lead intent.",
     featuredImage:
       "https://images.unsplash.com/photo-1493238792000-8113da705763?auto=format&fit=crop&w=1200&q=80",
-    categoryIds: ["content-strategy"],
+    categoryIds: ["content-strategy", "social-growth"],
     publishedAt: "2025-11-02",
     seo: {
       title: "Automotive Content Strategy Case Study | AG Creative",
-      description: "A portfolio case on scaling automotive engagement with audience-first creative strategy."
+      description:
+        "How AG Creative rebuilt an automotive content strategy to increase watch time and qualified lead flow."
     },
-    challenge:
-      "The brand had strong assets but low consistency in narrative, causing fragmented campaign performance.",
-    approach:
-      "AG Creative introduced a 3-pillar framework (Education, Trust, Desire) and a quarterly production calendar tied to launch windows.",
+    problem:
+      "The brand had strong visual assets but fragmented messaging across channels, which led to high output and low momentum.",
+    keyResult: "67% increase in average watch time and 2.1x lift in content-sourced leads.",
+    services: ["Audience Research", "Content Strategy", "Creative Direction", "Channel Planning"],
+    strategy: [
+      "Created a 3-pillar content narrative: Education, Trust, and Desire.",
+      "Mapped each pillar to platform behavior instead of cross-posting identical assets.",
+      "Aligned publishing rhythms with launch windows and dealer demand moments."
+    ],
+    execution: [
+      "Rolled out quarter-based content calendars with clear asset roles.",
+      "Built a reusable shot list and storytelling structure for production teams.",
+      "Implemented monthly performance reviews with clear keep/kill decisions."
+    ],
     outcomes: [
       "67% increase in average watch time",
       "2.1x growth in qualified inbound leads from content",
-      "Unified messaging across paid and organic channels"
+      "More consistent message recall across paid and organic touchpoints"
+    ],
+    whatMadeItWork: [
+      "Audience-first narrative instead of product-first publishing",
+      "Disciplined channel roles and creative consistency",
+      "Operational cadence that made quality repeatable"
     ]
   },
   {
@@ -117,33 +142,84 @@ export const caseStudies: CaseStudy[] = [
     title: "Bongereh Brand Awareness",
     client: "Bongereh",
     summary:
-      "Elevated top-of-funnel visibility with creative-led campaigns designed for shareability and recall.",
+      "Built a memorable, social-native brand presence that increased category visibility and branded demand.",
     featuredImage:
       "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
     categoryIds: ["brand-awareness", "social-growth"],
     publishedAt: "2025-08-19",
     seo: {
       title: "Bongereh Brand Awareness Case Study | AG Creative",
-      description: "How AG Creative designed creative concepts to increase reach, mentions, and brand recall for Bongereh."
+      description:
+        "How AG Creative increased reach, branded search demand, and creator mentions for Bongereh."
     },
-    challenge:
-      "Bongereh needed to establish clear brand memory in a crowded category with similar value propositions.",
-    approach:
-      "We launched a creator-assisted campaign system with repeatable visual motifs and platform-native storytelling.",
+    problem:
+      "Bongereh operated in a saturated category where generic messaging made it difficult to build distinction or recall.",
+    keyResult: "5.4M impressions and 28% increase in branded search volume.",
+    services: ["Brand Positioning", "Campaign Creative", "Creator Strategy", "Social Distribution"],
+    strategy: [
+      "Defined a distinct narrative territory with repeatable visual cues.",
+      "Built creator collaborations around concepts designed for shareability.",
+      "Prioritized frequency and consistency to improve memory structure."
+    ],
+    execution: [
+      "Produced a phased social campaign across short-form and creator placements.",
+      "Developed modular creative kits for faster campaign rollout.",
+      "Tracked sentiment, mention velocity, and branded search movement weekly."
+    ],
     outcomes: [
       "5.4M cross-platform impressions in campaign period",
       "28% increase in branded search volume",
-      "Significant uptick in creator UGC mentions"
+      "Strong uplift in creator UGC mentions and campaign saves"
+    ],
+    whatMadeItWork: [
+      "Clear brand world with repeatable creative signals",
+      "Creator partnerships tied to narrative, not random exposure",
+      "Balanced broad reach with consistent message discipline"
+    ]
+  },
+  {
+    id: "seo-conversion-optimisation",
+    slug: "seo-conversion-optimisation",
+    title: "SEO & Conversion Optimisation",
+    client: "Growth SaaS Portfolio",
+    summary:
+      "Combined SEO content architecture with CRO updates to grow qualified organic revenue, not just traffic.",
+    featuredImage:
+      "https://images.unsplash.com/photo-1551281044-8b7f8894d91b?auto=format&fit=crop&w=1200&q=80",
+    categoryIds: ["seo-cro", "content-strategy"],
+    publishedAt: "2025-06-14",
+    seo: {
+      title: "SEO & Conversion Optimisation Case Study | AG Creative",
+      description:
+        "How AG Creative linked SEO strategy with conversion optimisation to increase revenue from organic acquisition."
+    },
+    problem:
+      "Organic traffic was growing, but revenue lagged because high-intent pages were under-optimised and content paths leaked demand.",
+    keyResult: "+91% organic SQL volume and +38% organic revenue in 6 months.",
+    services: ["SEO Strategy", "Content Systems", "CRO", "Landing Page Optimisation"],
+    strategy: [
+      "Segmented keyword universe by commercial intent, not just volume.",
+      "Designed pillar/cluster content around buying-stage friction points.",
+      "Prioritised page templates with direct conversion opportunities."
+    ],
+    execution: [
+      "Rebuilt key landing pages with tighter messaging hierarchy and proof.",
+      "Launched conversion-focused content briefs with embedded CTA strategy.",
+      "Ran iterative CRO tests on forms, offers, and trust elements."
+    ],
+    outcomes: [
+      "91% growth in organic SQL volume",
+      "38% increase in organic-attributed revenue",
+      "Higher conversion rate from high-intent blog-to-demo pathways"
+    ],
+    whatMadeItWork: [
+      "SEO and CRO planned as one system instead of separate channels",
+      "Intent-driven content prioritisation",
+      "Consistent experimentation on page-level conversion bottlenecks"
     ]
   }
 ];
 
-/**
- * EDIT BLOG POSTS HERE:
- * - title, excerpt, body
- * - featuredImage (URL or future CMS image object)
- * - categoryIds + SEO fields
- */
 export const blogPosts: BlogPost[] = [
   {
     id: "how-short-form-content-drives-brand-growth",
@@ -162,7 +238,8 @@ export const blogPosts: BlogPost[] = [
     publishedAt: "2026-02-05",
     seo: {
       title: "How Short-Form Content Drives Brand Growth | AG Creative",
-      description: "Practical insights for turning short-form creative into real growth outcomes."
+      description:
+        "Practical insights for turning short-form creative into real growth outcomes."
     }
   },
   {
@@ -182,7 +259,8 @@ export const blogPosts: BlogPost[] = [
     publishedAt: "2026-01-18",
     seo: {
       title: "Why Case Studies Matter for Marketers | AG Creative",
-      description: "Learn why case studies are one of the highest-leverage assets in a growth marketing portfolio."
+      description:
+        "Learn why case studies are one of the highest-leverage assets in a growth marketing portfolio."
     }
   },
   {
@@ -202,7 +280,8 @@ export const blogPosts: BlogPost[] = [
     publishedAt: "2025-12-09",
     seo: {
       title: "Building a Growth Marketing Portfolio | AG Creative",
-      description: "A practical structure for creating a portfolio that attracts better clients and opportunities."
+      description:
+        "A practical structure for creating a portfolio that attracts better clients and opportunities."
     }
   }
 ];
@@ -213,5 +292,15 @@ export const siteConfig = {
   email: "hello@agcreative.studio"
 };
 
+export const caseStudyMetrics = [
+  { label: "Average reach growth", value: "3.4x" },
+  { label: "Pipeline efficiency lift", value: "+42%" },
+  { label: "Campaign velocity", value: "Weekly sprints" },
+  { label: "Revenue outcomes", value: "Compounding" }
+];
+
 export const getCategoryName = (categoryId: string) =>
   categories.find((category) => category.id === categoryId)?.name ?? "General";
+
+export const getPrimaryCategory = (categoryIds: string[]) =>
+  getCategoryName(categoryIds[0]);
