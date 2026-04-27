@@ -1,101 +1,431 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AG Creative</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AG Creative | Content. Data. Growth.</title>
 
-<style>
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background: #0f0f0f;
-  color: white;
-}
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
 
-.container {
-  max-width: 1100px;
-  margin: auto;
-  padding: 40px 20px;
-}
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #050505;
+      color: #ffffff;
+      line-height: 1.6;
+    }
 
-.hero {
-  text-align: center;
-  margin-top: 80px;
-}
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
 
-.hero h1 {
-  font-size: 48px;
-  margin-bottom: 10px;
-}
+    .container {
+      width: 92%;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
 
-.hero p {
-  color: #aaa;
-  font-size: 18px;
-}
+    header {
+      padding: 28px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
 
-.btn {
-  display: inline-block;
-  margin-top: 20px;
-  padding: 12px 24px;
-  background: white;
-  color: black;
-  text-decoration: none;
-  border-radius: 6px;
-}
+    .logo {
+      font-size: 24px;
+      font-weight: 800;
+      letter-spacing: 1px;
+    }
 
-.section {
-  margin-top: 100px;
-}
+    .logo span {
+      color: #ff2d45;
+    }
 
-.section h2 {
-  margin-bottom: 20px;
-}
+    nav {
+      display: flex;
+      gap: 28px;
+      font-size: 14px;
+      font-weight: 600;
+      color: #cfcfcf;
+    }
 
-.card {
-  background: #1a1a1a;
-  padding: 20px;
-  border-radius: 10px;
-  margin-bottom: 20px;
-}
+    .hero {
+      min-height: 76vh;
+      display: grid;
+      grid-template-columns: 1.2fr 0.8fr;
+      align-items: center;
+      gap: 50px;
+      padding: 70px 0;
+    }
 
-</style>
+    .tag {
+      color: #ff2d45;
+      font-size: 14px;
+      font-weight: 800;
+      letter-spacing: 2px;
+      margin-bottom: 14px;
+      text-transform: uppercase;
+    }
 
+    h1 {
+      font-size: clamp(48px, 8vw, 96px);
+      line-height: 0.95;
+      font-weight: 900;
+      letter-spacing: -3px;
+    }
+
+    h1 span {
+      color: #ff2d45;
+    }
+
+    .hero p {
+      margin-top: 24px;
+      max-width: 560px;
+      font-size: 20px;
+      color: #cfcfcf;
+    }
+
+    .buttons {
+      margin-top: 34px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+    }
+
+    .btn {
+      padding: 15px 22px;
+      border-radius: 10px;
+      font-weight: 800;
+      font-size: 14px;
+      border: 1px solid #333;
+      transition: 0.25s ease;
+    }
+
+    .btn.primary {
+      background: #ff2d45;
+      border-color: #ff2d45;
+      color: #fff;
+    }
+
+    .btn:hover {
+      transform: translateY(-2px);
+      opacity: 0.9;
+    }
+
+    .hero-card {
+      background: radial-gradient(circle at top, #1f1f1f, #0c0c0c);
+      border: 1px solid #222;
+      border-radius: 28px;
+      padding: 35px;
+      box-shadow: 0 20px 80px rgba(255, 45, 69, 0.12);
+    }
+
+    .hero-card h3 {
+      font-size: 22px;
+      margin-bottom: 20px;
+      color: #ffffff;
+    }
+
+    .big-stat {
+      font-size: 64px;
+      font-weight: 900;
+      color: #ff2d45;
+      line-height: 1;
+    }
+
+    .small {
+      color: #bdbdbd;
+      margin-top: 6px;
+    }
+
+    .stats {
+      margin-top: 35px;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 18px;
+    }
+
+    .stat-box {
+      background: #111;
+      border: 1px solid #222;
+      border-radius: 18px;
+      padding: 25px;
+    }
+
+    .stat-box h2 {
+      font-size: 36px;
+      color: #fff;
+    }
+
+    .stat-box p {
+      color: #aaa;
+      font-size: 14px;
+    }
+
+    section {
+      padding: 70px 0;
+    }
+
+    .section-title {
+      color: #ff2d45;
+      font-size: 14px;
+      font-weight: 900;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-bottom: 18px;
+    }
+
+    .section-heading {
+      font-size: 42px;
+      margin-bottom: 28px;
+      letter-spacing: -1px;
+    }
+
+    .case-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 22px;
+    }
+
+    .case-card {
+      background: #111;
+      border: 1px solid #222;
+      border-radius: 22px;
+      padding: 28px;
+      min-height: 260px;
+      transition: 0.25s ease;
+    }
+
+    .case-card:hover {
+      border-color: #ff2d45;
+      transform: translateY(-4px);
+    }
+
+    .case-card h3 {
+      font-size: 22px;
+      margin-bottom: 12px;
+    }
+
+    .case-card .metric {
+      font-size: 34px;
+      font-weight: 900;
+      color: #ff2d45;
+      margin-bottom: 14px;
+    }
+
+    .case-card p {
+      color: #bdbdbd;
+    }
+
+    .portfolio-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 14px;
+    }
+
+    .portfolio-item {
+      height: 210px;
+      border-radius: 18px;
+      background: linear-gradient(135deg, #222, #0b0b0b);
+      border: 1px solid #222;
+      display: flex;
+      align-items: end;
+      padding: 18px;
+      color: #fff;
+      font-weight: 800;
+      overflow: hidden;
+    }
+
+    .portfolio-item:nth-child(1) { background: linear-gradient(135deg, #2b2b2b, #0b0b0b); }
+    .portfolio-item:nth-child(2) { background: linear-gradient(135deg, #301015, #0b0b0b); }
+    .portfolio-item:nth-child(3) { background: linear-gradient(135deg, #102018, #0b0b0b); }
+    .portfolio-item:nth-child(4) { background: linear-gradient(135deg, #1d1d2a, #0b0b0b); }
+
+    .about-contact {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+    }
+
+    .panel {
+      background: #111;
+      border: 1px solid #222;
+      border-radius: 24px;
+      padding: 30px;
+    }
+
+    .panel p {
+      color: #cfcfcf;
+      margin-top: 12px;
+    }
+
+    footer {
+      padding: 36px 0;
+      color: #777;
+      font-size: 14px;
+      text-align: center;
+      border-top: 1px solid #151515;
+    }
+
+    @media (max-width: 900px) {
+      nav {
+        display: none;
+      }
+
+      .hero {
+        grid-template-columns: 1fr;
+        padding: 40px 0;
+      }
+
+      .stats,
+      .case-grid,
+      .portfolio-grid,
+      .about-contact {
+        grid-template-columns: 1fr;
+      }
+
+      .hero-card {
+        padding: 25px;
+      }
+    }
+  </style>
 </head>
+
 <body>
 
-<div class="container">
+  <div class="container">
 
-  <!-- HERO -->
-  <div class="hero">
-    <h1>AG Creative</h1>
-    <p>Growth Marketing • Content • Performance</p>
-    <a class="btn" href="https://www.linkedin.com" target="_blank">View LinkedIn</a>
+    <header>
+      <div class="logo"><span>AG</span> CREATIVE</div>
+      <nav>
+        <a href="#case-studies">Case Studies</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <div>
+        <div class="tag">AG Creative</div>
+        <h1>Content.<br>Data.<br><span>Growth.</span></h1>
+        <p>
+          I help brands turn attention into traffic, leads and revenue through
+          performance-driven content, analytics and growth marketing.
+        </p>
+
+        <div class="buttons">
+          <a class="btn primary" href="#case-studies">View Case Studies</a>
+          <a class="btn" href="#portfolio">My Work</a>
+          <a class="btn" href="#contact">Contact Me</a>
+        </div>
+      </div>
+
+      <div class="hero-card">
+        <h3>Featured Result</h3>
+        <div class="big-stat">1.1M+</div>
+        <div class="small">Organic TikTok views in 60 days</div>
+
+        <div class="stats">
+          <div class="stat-box">
+            <h2>£16K+</h2>
+            <p>Email revenue generated</p>
+          </div>
+          <div class="stat-box">
+            <h2>0</h2>
+            <p>Paid ads used</p>
+          </div>
+          <div class="stat-box">
+            <h2>8.3K</h2>
+            <p>Profile visits</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="case-studies">
+      <div class="section-title">Case Studies</div>
+      <h2 class="section-heading">Real results, not theory.</h2>
+
+      <div class="case-grid">
+        <div class="case-card">
+          <div class="metric">1.1M+</div>
+          <h3>KITS UK — Organic TikTok Growth</h3>
+          <p>
+            Scaled TikTok reach through hook testing, retention optimisation,
+            pricing-led content and platform-native formatting.
+          </p>
+        </div>
+
+        <div class="case-card">
+          <div class="metric">£16K+</div>
+          <h3>Email Marketing Revenue</h3>
+          <p>
+            Used segmentation, timing and campaign relevance to turn email
+            into a direct revenue channel.
+          </p>
+        </div>
+
+        <div class="case-card">
+          <div class="metric">89K+</div>
+          <h3>BONGEREH — Brand Growth</h3>
+          <p>
+            Built social presence through storytelling, consistent content,
+            event coverage and community-led publishing.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="portfolio">
+      <div class="section-title">Portfolio</div>
+      <h2 class="section-heading">Selected work.</h2>
+
+      <div class="portfolio-grid">
+        <div class="portfolio-item">Automotive Photography</div>
+        <div class="portfolio-item">Short-Form Video</div>
+        <div class="portfolio-item">Social Media Creative</div>
+        <div class="portfolio-item">YouTube Thumbnails</div>
+      </div>
+    </section>
+
+    <section id="about">
+      <div class="about-contact">
+        <div class="panel">
+          <div class="section-title">About Me</div>
+          <h2>UK-based growth digital marketer.</h2>
+          <p>
+            I work across content strategy, social media growth, email marketing,
+            e-commerce and analytics. My focus is simple: build systems that
+            turn content into measurable business results.
+          </p>
+        </div>
+
+        <div class="panel" id="contact">
+          <div class="section-title">Contact</div>
+          <h2>Let’s work together.</h2>
+          <p>Email: ghajaraliasghar1992@gmail.com</p>
+          <p>LinkedIn: linkedin.com/in/aliasgharghajar</p>
+
+          <div class="buttons">
+            <a class="btn primary" href="mailto:ghajaraliasghar1992@gmail.com">Email Me</a>
+            <a class="btn" href="https://www.linkedin.com/in/aliasgharghajar/" target="_blank">LinkedIn</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
   </div>
 
-  <!-- ABOUT -->
-  <div class="section">
-    <h2>About Me</h2>
-    <div class="card">
-      <p>
-        I build content systems that drive real growth.
-        From 0 to 800K+ views in 28 days — fully organic.
-      </p>
-    </div>
-  </div>
-
-  <!-- PORTFOLIO -->
-  <div class="section">
-    <h2>Portfolio</h2>
-
-    <div class="card">
-      <h3>KITS UK</h3>
-      <p>1.1M views in 60 days • 0 paid ads</p>
-    </div>
-
-  </div>
-
-</div>
+  <footer>
+    © 2026 AG Creative — Content. Data. Growth.
+  </footer>
 
 </body>
 </html>
