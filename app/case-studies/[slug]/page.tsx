@@ -1,44 +1,28 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";
+import { caseStudies, getCategoryName } from "@/lib/content";
 import { CTASection } from "@/components/cta-section";
-import { getCategoryName } from "@/lib/content";
-import {
-  getCaseStudies,
-  getCaseStudyBySlug
-} from "@/lib/sanity/content";
 
 type Props = {
-  params: Promise<{ slug: string }>;
+  params: { slug: string };
 };
 
-export async function generateMetadata({
-  params
-}: Props): Promise<Metadata> {
-  const { slug } = await params;
-  const caseStudy = await getCaseStudyBySlug(slug);
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const caseStudy = caseStudies.find((item) => item.slug === params.slug);
 
   if (!caseStudy) {
     return { title: "Case Study Not Found | AG Creative" };
   }
 
   return {
-    title: caseStudy.seo?.title || caseStudy.title,
-    description: caseStudy.seo?.description || caseStudy.summary
+    title: caseStudy.seo.title,
+    description: caseStudy.seo.description
   };
 }
 
-export async function generateStaticParams() {
-  const caseStudies = await getCaseStudies();
-
-  return caseStudies.map((caseStudy) => ({
-    slug: caseStudy.slug
-  }));
-}
-
-export default async function CaseStudyDetailPage({ params }: Props) {
-  const { slug } = await params;
-  const caseStudy = await getCaseStudyBySlug(slug);
+export default function CaseStudyDetailPage({ params }: Props) {
+  const caseStudy = caseStudies.find((item) => item.slug === params.slug);
 
   if (!caseStudy) {
     notFound();
@@ -46,7 +30,7 @@ export default async function CaseStudyDetailPage({ params }: Props) {
 
   return (
     <article className="container-section space-y-10 py-12 md:space-y-14 md:py-16">
-      <header className="space-y-6 rounded-3xl border border-white/10 bg-hero-gradient bg-[#0A0E18] p-8 md:p-12">
+      <header className="space-y-6 rounded-3xl border border-white/10 bg-[#0A0E18] p-8 md:p-12">
         <p className="text-xs uppercase tracking-[0.2em] text-indigo-300">
           {caseStudy.client} • {getCategoryName(caseStudy.categoryIds[0])}
         </p>
@@ -83,9 +67,7 @@ export default async function CaseStudyDetailPage({ params }: Props) {
           <h2 className="text-sm uppercase tracking-[0.2em] text-indigo-300">
             Problem
           </h2>
-          <p className="mt-3 text-sm leading-relaxed text-white/80">
-            {caseStudy.problem}
-          </p>
+          <p className="mt-3 text-sm text-white/80">{caseStudy.problem}</p>
         </div>
 
         <div className="rounded-2xl border border-white/10 bg-white/[0.03] p-6">
@@ -148,7 +130,7 @@ export default async function CaseStudyDetailPage({ params }: Props) {
 
       <CTASection
         title="Want outcomes like this for your brand?"
-        description="We design growth marketing and content systems that move from reach to revenue with clear execution discipline."
+        description="We design growth marketing and content systems that move from reach to revenue."
         primaryLabel="Start your project"
         primaryHref="/contact"
         secondaryLabel="View all case studies"

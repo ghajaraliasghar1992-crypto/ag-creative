@@ -1,35 +1,27 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";
-import { getBlogPosts, getBlogPostBySlug } from "@/lib/sanity/content";
+import { blogPosts } from "@/lib/content";
 
 type Props = {
   params: { slug: string };
 };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const post = await getBlogPostBySlug(params.slug);
+  const post = blogPosts.find((p) => p.slug === params.slug);
 
   if (!post) {
     return { title: "Post Not Found | AG Creative" };
   }
 
   return {
-    title: post.seo?.title || post.title,
-    description: post.seo?.description || post.excerpt,
+    title: post.seo.title,
+    description: post.seo.description
   };
 }
 
-export async function generateStaticParams() {
-  const posts = await getBlogPosts();
-
-  return posts.map((post) => ({
-    slug: post.slug,
-  }));
-}
-
-export default async function BlogPostPage({ params }: Props) {
-  const post = await getBlogPostBySlug(params.slug);
+export default function BlogPostPage({ params }: Props) {
+  const post = blogPosts.find((p) => p.slug === params.slug);
 
   if (!post) {
     notFound();
@@ -54,7 +46,7 @@ export default async function BlogPostPage({ params }: Props) {
       </div>
 
       <div className="space-y-4 text-white/80">
-        {post.body?.map((paragraph: string, index: number) => (
+        {post.body.map((paragraph, index) => (
           <p key={index}>{paragraph}</p>
         ))}
       </div>

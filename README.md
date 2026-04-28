@@ -1,12 +1,12 @@
 # AG Creative Site
 
-Premium, minimal portfolio website for **AG Creative** built with **Next.js (App Router)**, **TypeScript**, **Tailwind CSS**, and **Sanity CMS**.
+Premium, modern portfolio website for **AG Creative** built with **Next.js (App Router)**, **TypeScript**, and **Tailwind CSS**.
 
 ## Stack
 - Next.js 16 + App Router
 - TypeScript
 - Tailwind CSS
-- Sanity Studio (embedded at `/studio`)
+- CMS-ready structure (Sanity optional)
 
 ## Included pages
 - `/` (Landing page)
@@ -15,20 +15,54 @@ Premium, minimal portfolio website for **AG Creative** built with **Next.js (App
 - `/blog`
 - `/blog/[slug]`
 - `/contact`
-- `/studio` (Sanity admin panel)
 
-## CMS model (Sanity)
-Sanity schemas are in `sanity/schemaTypes/`:
-- `caseStudy`
-- `blogPost`
-- `category`
+## Content system
 
-The frontend keeps typed contracts in `lib/content.ts` and fetches Sanity content via `lib/sanity/content.ts`.
+All content is managed from:
 
-> If Sanity is not configured yet, the site automatically falls back to local sample content.
+lib/content.ts
+
+Includes:
+- Case studies
+- Blog posts
+- Categories
+- SEO metadata
+
+You can later connect a CMS (like Sanity) without changing the frontend structure.
 
 ## Local development
 
 1. Install dependencies:
-```bash
 npm install
+
+2. Run development server:
+npm run dev
+
+3. Open:
+http://localhost:3000
+
+## Production build
+
+npm run build
+npm run start
+
+## Deploy on Vercel
+
+1. Push repository to GitHub  
+2. Import into Vercel  
+3. Deploy (no extra config needed)
+
+## Where to edit
+
+- Content: lib/content.ts  
+- Case studies UI: app/case-studies/*  
+- Blog UI: app/blog/*  
+- Layout & homepage: app/page.tsx  
+- Components: components/*  
+- Styles: app/globals.css  
+
+## Notes
+
+- No CMS required for now  
+- Fast, stable, and easy to extend  
+- Ready for future Sanity integration without breaking structure  
