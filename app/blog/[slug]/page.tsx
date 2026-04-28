@@ -1,16 +1,14 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";
-import { getCategoryName } from "@/lib/content";
-import { getBlogPostBySlug, getBlogPosts } from "@/lib/sanity/content";
+import { blogPosts } from "@/lib/content";
 
 type Props = {
-  params: Promise<{ slug: string }>;
+  params: { slug: string };
 };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { slug } = await params;
-  const post = await getBlogPostBySlug(slug);
+  const post = blogPosts.find((p) => p.slug === params.slug);
 
   if (!post) {
     return { title: "Post Not Found | AG Creative" };
@@ -22,14 +20,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-export async function generateStaticParams() {
-  const posts = await getBlogPosts();
-  return posts.map((post) => ({ slug: post.slug }));
-}
-
-export default async function BlogPostPage({ params }: Props) {
-  const { slug } = await params;
-  const post = await getBlogPostBySlug(slug);
+export default function BlogPostPage({ params }: Props) {
+  const post = blogPosts.find((p) => p.slug === params.slug);
 
   if (!post) {
     notFound();
@@ -37,29 +29,25 @@ export default async function BlogPostPage({ params }: Props) {
 
   return (
     <article className="container-section space-y-8 py-12 md:py-16">
-      <p className="text-xs uppercase tracking-[0.2em] text-indigo-300">
-        {new Date(post.publishedAt).toLocaleDateString("en-US", {
-          month: "long",
-          day: "numeric",
-          year: "numeric"
-        })}
-      </p>
-      <h1 className="max-w-3xl text-4xl font-semibold tracking-tight text-white md:text-5xl">{post.title}</h1>
-      <div className="relative h-72 w-full overflow-hidden rounded-3xl border border-white/10 md:h-[28rem]">
-        <Image src={post.featuredImage} alt={post.title} fill className="object-cover" />
+      <header className="space-y-4">
+        <h1 className="text-4xl font-semibold text-white md:text-5xl">
+          {post.title}
+        </h1>
+        <p className="text-white/70">{post.excerpt}</p>
+      </header>
+
+      <div className="relative h-72 w-full overflow-hidden rounded-3xl border border-white/10 md:h-[30rem]">
+        <Image
+          src={post.featuredImage}
+          alt={post.title}
+          fill
+          className="object-cover"
+        />
       </div>
 
-      <div className="flex flex-wrap gap-2">
-        {post.categoryIds.map((id) => (
-          <span key={id} className="rounded-full border border-white/10 px-3 py-1 text-xs text-white/70">
-            {getCategoryName(id)}
-          </span>
-        ))}
-      </div>
-
-      <div className="prose prose-invert max-w-3xl text-white/85">
-        {post.body.map((paragraph) => (
-          <p key={paragraph}>{paragraph}</p>
+      <div className="space-y-4 text-white/80">
+        {post.body.map((paragraph, index) => (
+          <p key={index}>{paragraph}</p>
         ))}
       </div>
     </article>
