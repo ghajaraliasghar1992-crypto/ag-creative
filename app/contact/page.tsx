@@ -28,7 +28,7 @@ export default function ContactPage() {
         <a
           href={`mailto:${email}`}
           className="mt-8 inline-flex rounded-full bg-white px-5 py-3 text-sm font-semibold text-black"
-        >
+        > 
           {email}
         </a>
       </div>
