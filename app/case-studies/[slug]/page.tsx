@@ -2,33 +2,43 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import { CTASection } from "@/components/cta-section";
-import { caseStudies, getCategoryName } from "@/lib/content";
+import { getCategoryName } from "@/lib/content";
+import {
+  getCaseStudies,
+  getCaseStudyBySlug
+} from "@/lib/sanity/content";
 
 type Props = {
   params: Promise<{ slug: string }>;
 };
 
-export async function generateMetadata({ params }: Props): Promise<Metadata> {
+export async function generateMetadata({
+  params
+}: Props): Promise<Metadata> {
   const { slug } = await params;
-  const caseStudy = caseStudies.find((item) => item.slug === slug);
+  const caseStudy = await getCaseStudyBySlug(slug);
 
   if (!caseStudy) {
     return { title: "Case Study Not Found | AG Creative" };
   }
 
   return {
-    title: caseStudy.seo.title,
-    description: caseStudy.seo.description
+    title: caseStudy.seo?.title || caseStudy.title,
+    description: caseStudy.seo?.description || caseStudy.summary
   };
 }
 
-export function generateStaticParams() {
-  return caseStudies.map((caseStudy) => ({ slug: caseStudy.slug }));
+export async function generateStaticParams() {
+  const caseStudies = await getCaseStudies();
+
+  return caseStudies.map((caseStudy) => ({
+    slug: caseStudy.slug
+  }));
 }
 
 export default async function CaseStudyDetailPage({ params }: Props) {
   const { slug } = await params;
-  const caseStudy = caseStudies.find((item) => item.slug === slug);
+  const caseStudy = await getCaseStudyBySlug(slug);
 
   if (!caseStudy) {
     notFound();
@@ -82,6 +92,7 @@ export default async function CaseStudyDetailPage({ params }: Props) {
           <h2 className="text-sm uppercase tracking-[0.2em] text-indigo-300">
             Services used
           </h2>
+
           <div className="mt-3 flex flex-wrap gap-2">
             {caseStudy.services.map((service) => (
               <span

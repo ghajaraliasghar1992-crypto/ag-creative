@@ -4,11 +4,11 @@ import { CaseStudyCard } from "@/components/case-study-card";
 import { MetricCard } from "@/components/metric-card";
 import { SectionHeading } from "@/components/section-heading";
 import {
-  caseStudies,
   caseStudyMetrics,
   categories,
   getPrimaryCategory
 } from "@/lib/content";
+import { getCaseStudies } from "@/lib/sanity/content";
 
 export const metadata: Metadata = {
   title: "Case Studies | AG Creative",
@@ -16,9 +16,14 @@ export const metadata: Metadata = {
     "Explore AG Creative case studies across growth marketing, content systems, social growth, SEO, and revenue performance."
 };
 
-export default function CaseStudiesPage() {
+export default async function CaseStudiesPage() {
+  const caseStudies = await getCaseStudies();
+
   const featuredStudy = caseStudies[0];
   const remainingStudies = caseStudies.slice(1);
+  const categoryIds = Array.from(
+    new Set(caseStudies.flatMap((study) => study.categoryIds))
+  );
 
   return (
     <div className="container-section space-y-12 py-12 md:space-y-16 md:py-16">
@@ -59,7 +64,7 @@ export default function CaseStudiesPage() {
           </span>
 
           {categories
-            .filter((category) => category.id !== "marketing-insights")
+            .filter((category) => categoryIds.includes(category.id))
             .map((category) => (
               <span
                 key={category.id}
@@ -71,34 +76,36 @@ export default function CaseStudiesPage() {
         </div>
       </section>
 
-      <section className="space-y-6">
-        <SectionHeading
-          eyebrow="Featured engagement"
-          title={featuredStudy.title}
-          description={`${featuredStudy.problem} Key win: ${featuredStudy.keyResult}`}
-        />
+      {featuredStudy ? (
+        <section className="space-y-6">
+          <SectionHeading
+            eyebrow="Featured engagement"
+            title={featuredStudy.title}
+            description={`${featuredStudy.problem} Key win: ${featuredStudy.keyResult}`}
+          />
 
-        <article className="rounded-3xl border border-white/10 bg-white/[0.03] p-4 md:p-6">
-          <CaseStudyCard caseStudy={featuredStudy} variant="detailed" />
+          <article className="rounded-3xl border border-white/10 bg-white/[0.03] p-4 md:p-6">
+            <CaseStudyCard caseStudy={featuredStudy} variant="detailed" />
 
-          <div className="mt-5 flex flex-wrap gap-2">
-            {featuredStudy.services.map((service) => (
-              <span
-                key={service}
-                className="rounded-full border border-white/10 px-3 py-1 text-xs text-white/70"
-              >
-                {service}
-              </span>
-            ))}
-          </div>
-        </article>
-      </section>
+            <div className="mt-5 flex flex-wrap gap-2">
+              {featuredStudy.services.map((service) => (
+                <span
+                  key={service}
+                  className="rounded-full border border-white/10 px-3 py-1 text-xs text-white/70"
+                >
+                  {service}
+                </span>
+              ))}
+            </div>
+          </article>
+        </section>
+      ) : null}
 
       <section className="space-y-8">
         <SectionHeading
           eyebrow="All projects"
           title="Selected growth marketing case studies"
-          description="Each project combines strategy, production, distribution, and optimization to drive measurable outcomes."
+          description="Each project combines strategy, production, distribution, and optimisation to drive measurable outcomes."
         />
 
         <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-3">
@@ -112,16 +119,18 @@ export default function CaseStudiesPage() {
         </div>
       </section>
 
-      <CTASection
-        title="Want this level of performance in your content engine?"
-        description="If you're serious about compounding social, search, and revenue outcomes, let’s build the system behind your next growth phase."
-        primaryLabel="Book a strategy call"
-        primaryHref="/contact"
-        secondaryLabel={`Read ${getPrimaryCategory(
-          featuredStudy.categoryIds
-        )} case study`}
-        secondaryHref={`/case-studies/${featuredStudy.slug}`}
-      />
+      {featuredStudy ? (
+        <CTASection
+          title="Want this level of performance in your content engine?"
+          description="If you're serious about compounding social, search, and revenue outcomes, let’s build the system behind your next growth phase."
+          primaryLabel="Book a strategy call"
+          primaryHref="/contact"
+          secondaryLabel={`Read ${getPrimaryCategory(
+            featuredStudy.categoryIds
+          )} case study`}
+          secondaryHref={`/case-studies/${featuredStudy.slug}`}
+        />
+      ) : null}
     </div>
   );
 }

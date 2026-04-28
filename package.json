@@ -11,7 +11,8 @@
   "dependencies": {
     "next": "16.2.4",
     "react": "19.1.1",
-    "react-dom": "19.1.1"
+    "react-dom": "19.1.1",
+    "sanity": "^4.8.2"
   },
   "devDependencies": {
     "@types/node": "22.15.18",

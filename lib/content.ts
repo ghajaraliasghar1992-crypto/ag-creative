@@ -1,5 +1,8 @@
 /**
  * CMS-READY CONTENT MODELS + SAMPLE CONTENT
+ *
+ * Replace or map this file to your future CMS provider.
+ * These local objects are used as fallback sample content.
  */
 
 export type SeoFields = {
@@ -117,7 +120,7 @@ export const caseStudies: CaseStudy[] = [
     services: ["Audience Research", "Content Strategy", "Creative Direction", "Channel Planning"],
     strategy: [
       "Created a 3-pillar content narrative: Education, Trust, and Desire.",
-      "Mapped each pillar to platform behavior instead of cross-posting identical assets.",
+      "Mapped each pillar to platform behaviour instead of cross-posting identical assets.",
       "Aligned publishing rhythms with launch windows and dealer demand moments."
     ],
     execution: [
@@ -159,7 +162,7 @@ export const caseStudies: CaseStudy[] = [
     strategy: [
       "Defined a distinct narrative territory with repeatable visual cues.",
       "Built creator collaborations around concepts designed for shareability.",
-      "Prioritized frequency and consistency to improve memory structure."
+      "Prioritised frequency and consistency to improve memory structure."
     ],
     execution: [
       "Produced a phased social campaign across short-form and creator placements.",
