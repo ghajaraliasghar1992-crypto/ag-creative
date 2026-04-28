@@ -5,7 +5,8 @@ import { getBlogPosts } from "@/lib/sanity/content";
 
 export const metadata: Metadata = {
   title: "Blog | AG Creative",
-  description: "Insights on growth marketing, creative systems, and portfolio building."
+  description:
+    "Insights on growth marketing, creative systems, and portfolio building."
 };
 
 export default async function BlogPage() {
@@ -18,6 +19,7 @@ export default async function BlogPage() {
         title="Blog"
         description="Posts can now be managed in Sanity Studio. Local sample content is used as fallback when the CMS has no data."
       />
+
       <div className="grid gap-5 md:grid-cols-3">
         {blogPosts.map((post) => (
           <BlogCard key={post.id} post={post} />

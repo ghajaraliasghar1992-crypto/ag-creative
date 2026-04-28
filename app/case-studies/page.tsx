@@ -3,7 +3,11 @@ import { CTASection } from "@/components/cta-section";
 import { CaseStudyCard } from "@/components/case-study-card";
 import { MetricCard } from "@/components/metric-card";
 import { SectionHeading } from "@/components/section-heading";
-import { caseStudyMetrics, getCategoryName, getPrimaryCategory } from "@/lib/content";
+import {
+  caseStudyMetrics,
+  categories,
+  getPrimaryCategory
+} from "@/lib/content";
 import { getCaseStudies } from "@/lib/sanity/content";
 
 export const metadata: Metadata = {
@@ -14,40 +18,61 @@ export const metadata: Metadata = {
 
 export default async function CaseStudiesPage() {
   const caseStudies = await getCaseStudies();
+
   const featuredStudy = caseStudies[0];
   const remainingStudies = caseStudies.slice(1);
-  const categoryIds = Array.from(new Set(caseStudies.flatMap((study) => study.categoryIds)));
+  const categoryIds = Array.from(
+    new Set(caseStudies.flatMap((study) => study.categoryIds))
+  );
 
   return (
     <div className="container-section space-y-12 py-12 md:space-y-16 md:py-16">
       <section className="rounded-3xl border border-white/10 bg-hero-gradient bg-[#0B0F18] p-8 md:p-12">
-        <p className="text-xs uppercase tracking-[0.22em] text-indigo-300">Case studies</p>
+        <p className="text-xs uppercase tracking-[0.22em] text-indigo-300">
+          Case studies
+        </p>
+
         <h1 className="mt-4 max-w-4xl text-4xl font-semibold tracking-tight text-white md:text-6xl">
           Real growth systems. Measurable business outcomes.
         </h1>
+
         <p className="mt-5 max-w-3xl text-base text-white/75 md:text-lg">
-          We help brands turn content into a predictable growth channel by connecting strategy, creative execution, SEO,
-          and conversion architecture.
+          We help brands turn content into a predictable growth channel by
+          connecting strategy, creative execution, SEO, and conversion
+          architecture.
         </p>
       </section>
 
       <section className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
         {caseStudyMetrics.map((metric) => (
-          <MetricCard key={metric.label} label={metric.label} value={metric.value} />
+          <MetricCard
+            key={metric.label}
+            label={metric.label}
+            value={metric.value}
+          />
         ))}
       </section>
 
       <section className="space-y-4">
-        <p className="text-xs uppercase tracking-[0.2em] text-white/55">Filter by category</p>
+        <p className="text-xs uppercase tracking-[0.2em] text-white/55">
+          Filter by category
+        </p>
+
         <div className="flex flex-wrap gap-2">
           <span className="rounded-full border border-indigo-300/40 bg-indigo-300/10 px-4 py-2 text-xs font-medium text-indigo-200">
             All
           </span>
-          {categoryIds.map((categoryId) => (
-            <span key={categoryId} className="rounded-full border border-white/10 px-4 py-2 text-xs font-medium text-white/75">
-              {getCategoryName(categoryId)}
-            </span>
-          ))}
+
+          {categories
+            .filter((category) => categoryIds.includes(category.id))
+            .map((category) => (
+              <span
+                key={category.id}
+                className="rounded-full border border-white/10 px-4 py-2 text-xs font-medium text-white/75"
+              >
+                {category.name}
+              </span>
+            ))}
         </div>
       </section>
 
@@ -58,11 +83,16 @@ export default async function CaseStudiesPage() {
             title={featuredStudy.title}
             description={`${featuredStudy.problem} Key win: ${featuredStudy.keyResult}`}
           />
+
           <article className="rounded-3xl border border-white/10 bg-white/[0.03] p-4 md:p-6">
             <CaseStudyCard caseStudy={featuredStudy} variant="detailed" />
+
             <div className="mt-5 flex flex-wrap gap-2">
               {featuredStudy.services.map((service) => (
-                <span key={service} className="rounded-full border border-white/10 px-3 py-1 text-xs text-white/70">
+                <span
+                  key={service}
+                  className="rounded-full border border-white/10 px-3 py-1 text-xs text-white/70"
+                >
                   {service}
                 </span>
               ))}
@@ -75,11 +105,16 @@ export default async function CaseStudiesPage() {
         <SectionHeading
           eyebrow="All projects"
           title="Selected growth marketing case studies"
-          description="Each project combines strategy, production, distribution, and optimization to drive measurable outcomes."
+          description="Each project combines strategy, production, distribution, and optimisation to drive measurable outcomes."
         />
+
         <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-3">
           {remainingStudies.map((caseStudy) => (
-            <CaseStudyCard key={caseStudy.id} caseStudy={caseStudy} variant="detailed" />
+            <CaseStudyCard
+              key={caseStudy.id}
+              caseStudy={caseStudy}
+              variant="detailed"
+            />
           ))}
         </div>
       </section>
@@ -90,7 +125,9 @@ export default async function CaseStudiesPage() {
           description="If you're serious about compounding social, search, and revenue outcomes, let’s build the system behind your next growth phase."
           primaryLabel="Book a strategy call"
           primaryHref="/contact"
-          secondaryLabel={`Read ${getPrimaryCategory(featuredStudy.categoryIds)} case study`}
+          secondaryLabel={`Read ${getPrimaryCategory(
+            featuredStudy.categoryIds
+          )} case study`}
           secondaryHref={`/case-studies/${featuredStudy.slug}`}
         />
       ) : null}
