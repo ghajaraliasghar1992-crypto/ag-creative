@@ -1,4 +1,8 @@
 .cache/
 _clips/
-video.mp4
+video*.mp4
+*.mp4.txt
 __pycache__/
+episodes/*/captions.srt
+episodes/*/credits.txt
+episodes/*/upload.txt
