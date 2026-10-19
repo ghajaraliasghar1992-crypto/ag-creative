@@ -1,0 +1,8 @@
+file '/home/user/ag-creative/youtube-factory/episodes/001-camera/_clips/000.mp4'
+file '/home/user/ag-creative/youtube-factory/episodes/001-camera/_clips/001.mp4'
+file '/home/user/ag-creative/youtube-factory/episodes/001-camera/_clips/002.mp4'
+file '/home/user/ag-creative/youtube-factory/episodes/001-camera/_clips/003.mp4'
+file '/home/user/ag-creative/youtube-factory/episodes/001-camera/_clips/004.mp4'
+file '/home/user/ag-creative/youtube-factory/episodes/001-camera/_clips/005.mp4'
+file '/home/user/ag-creative/youtube-factory/episodes/001-camera/_clips/006.mp4'
+file '/home/user/ag-creative/youtube-factory/episodes/001-camera/_clips/007.mp4'

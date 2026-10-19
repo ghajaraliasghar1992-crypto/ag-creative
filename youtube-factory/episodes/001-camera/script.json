@@ -1,0 +1,16 @@
+{
+  "title": "How the Camera Was Invented: From a Dark Room to Your Pocket",
+  "format": "long",
+  "description": "From the ancient camera obscura to the smartphone in your pocket, the real story of how we learned to freeze light.",
+  "tags": ["history of the camera", "how cameras were invented", "history of photography", "invention history"],
+  "scenes": [
+    {"text": "Every day you take photos without thinking. But less than two hundred years ago, capturing a single image took hours of exposure, toxic chemicals, and a lot of luck. This is how the camera was really invented.", "image": "smartphone camera"},
+    {"text": "The story starts over a thousand years ago. In the eleventh century, the scholar Ibn al-Haytham described what we now call the camera obscura: a dark room with a tiny hole, where an upside-down image of the outside world appears on the opposite wall.", "image": "camera obscura"},
+    {"text": "For centuries, artists used this trick to trace scenes by hand. But nobody could make the image stay. The light was beautiful, and it vanished the moment you looked away.", "image": "camera obscura drawing artist"},
+    {"text": "In eighteen twenty-six, a French inventor named Nicéphore Niépce finally fixed an image. He coated a pewter plate with bitumen and exposed it to light, from his window, for roughly eight hours. The result, View from the Window at Le Gras, is the oldest surviving photograph.", "image": "View from the Window at Le Gras Niépce"},
+    {"text": "Next came Louis Daguerre. His daguerreotype, announced in eighteen thirty-nine, cut exposure to minutes and produced stunning detail. France bought the patent and gave it to the world for free.", "image": "daguerreotype"},
+    {"text": "Then George Eastman changed everything. In eighteen eighty-eight he launched the Kodak camera, with a simple promise: you press the button, we do the rest. Photography stopped belonging to experts and started belonging to everyone.", "image": "Kodak camera 1888 Eastman"},
+    {"text": "The digital leap came in nineteen seventy-five, when Kodak engineer Steven Sasson built the first digital camera. It weighed almost four kilograms and took twenty-three seconds to record one black and white image.", "image": "Steven Sasson digital camera 1975"},
+    {"text": "From a hole in a wall, to a pewter plate, to the glass in your pocket. Every photo you take rides on a thousand years of stubborn curiosity. Next time, we look at how the computer was born. See you then.", "image": "camera history collection"}
+  ]
+}
