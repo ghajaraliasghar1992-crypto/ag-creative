@@ -1,0 +1,123 @@
+VIDEO — "He Had $70,000 and the Smithsonian. Two Bicycle Mechanics Beat Him in 9 Days."
+
+SCENE 1
+NARRATION: On October ninth, nineteen oh three, the New York Times published a prediction. A flying machine, it said, might be developed in a million to ten million years. Ten weeks later, two bicycle mechanics from Ohio proved the newspaper wrong. And the man the paper was mocking had been given about seventy thousand dollars, mostly of public money, to do it first.
+ON-SCREEN TEXT: October 9, 1903
+VISUAL: a newspaper headline typing out; a calendar jumping ten weeks; a stack of money labelled "public funds".
+
+SCENE 2
+NARRATION: Samuel Pierpont Langley was the obvious favourite. Secretary of the Smithsonian Institution. A celebrated astronomer. Friends in Washington, a team of engineers, and the backing of the War Department. If anyone in America was going to fly, everyone assumed it would be him.
+VISUAL: a name card for Langley with icons: Smithsonian, telescope, War Department, engineers; a crown over his head.
+
+SCENE 3
+NARRATION: And he had proof of concept. In eighteen ninety-six, an unmanned, steam-powered model of his flew for about three-quarters of a mile over the Potomac River. That flight was enough to convince the government to open its wallet.
+ON-SCREEN TEXT: 1896 · unmanned model flight
+VISUAL: a small steam-powered model gliding over a river; a government money bag opening.
+
+SCENE 4
+NARRATION: Wilbur and Orville Wright ran a bicycle shop in Dayton, Ohio. Neither had a college degree. By their own account, they spent less than a thousand dollars on their first airplane, mostly from the money the shop made.
+ON-SCREEN TEXT: Budget: under $1,000
+VISUAL: a bicycle shop front; two name cards; two money bars side by side: $70,000 vs under $1,000.
+
+SCENE 5
+NARRATION: Their curiosity started young. Their father brought home a toy helicopter made of cork, bamboo and paper, powered by a twisted rubber band. The boys played with it until it broke. Then they built their own.
+VISUAL: a toy helicopter lifting off; two boy silhouettes; the toy breaking, then two copies appearing.
+
+SCENE 6
+NARRATION: In eighteen ninety-six, the German glider pioneer Otto Lilienthal died in a crash. The news pushed the brothers to think seriously about flight. And in eighteen ninety-nine, Wilbur wrote a letter to the Smithsonian, asking for everything it had on the subject. The Smithsonian sent back a reading list, including Langley's own papers. The very institution Langley led helped train the men who would beat him.
+ON-SCREEN TEXT: 1899 · a letter to the Smithsonian
+VISUAL: a letter travelling to the Smithsonian; a reading list coming back; Langley's name on it.
+
+SCENE 7
+NARRATION: But they had something Langley didn't: a different question. Langley believed flight was a power problem. Build a strong enough engine, a big enough wing, and the machine would rise. The Wrights thought the real problem was control. A bird doesn't just float. It steers, constantly. And a bicycle had taught them that something unstable can be balanced, if the rider adjusts it every second.
+VISUAL: two question cards: "How do I get off the ground?" vs "How do I stay in control?"; a bicycle balancing; a bird adjusting its wings.
+
+SCENE 8
+NARRATION: As the story goes, the answer came from a cardboard box. Wilbur was idly twisting a long box that had held a bicycle inner tube. The box twisted at both ends, in opposite directions. He realised you could twist the tips of a wing the same way, to roll a plane left or right, the way a bird does.
+VISUAL: a long box being twisted; the same twist drawn on a wing; left and right roll arrows.
+
+SCENE 9
+NARRATION: To test it, they needed wind and soft sand. The Weather Bureau pointed them to a remote strip of beach in North Carolina, called Kitty Hawk. There, in nineteen hundred and the years after, they flew gliders again and again, hundreds of glides, until their nineteen oh two machine could finally be controlled in three directions.
+VISUAL: a map pin on Kitty Hawk; a glider gliding down a dune; three axes (roll, pitch, yaw) lighting up.
+
+SCENE 10
+NARRATION: Then they hit a wall. The published data on wing lift, from Lilienthal, turned out to be wrong. Their gliders performed worse than predicted. So in the autumn of nineteen oh one, they built something no one in their business had ever needed. A wind tunnel. A wooden box with a fan.
+ON-SCREEN TEXT: 1901 · 200+ wing designs
+VISUAL: a chart with a predicted line vs a lower measured line; a wooden box with a fan appearing.
+
+SCENE 11
+NARRATION: They tested over two hundred wing shapes. It cost almost nothing, and it gave them the best aerodynamic data in the world. The brothers weren't guessing anymore.
+VISUAL: wing cross-sections flipping past one after another; the best one highlighted in amber.
+
+SCENE 12
+NARRATION: No engine maker could supply a motor light enough. So their shop mechanic, Charlie Taylor, built one in about six weeks. And the brothers designed their propellers as rotating wings, a problem no one had solved properly before.
+VISUAL: an engine diagram building itself; a propeller turning into a rotating wing cross-section.
+
+SCENE 13
+NARRATION: Meanwhile, Langley's machine, the Great Aerodrome, was a feat of engineering muscle. Its engine produced about fifty horsepower, more than four times the Wrights' twelve. It was launched from the roof of a houseboat on the Potomac River, with a pilot named Charles Manly. But it gave the pilot very little control once it was in the air.
+VISUAL: a bar chart: 52 hp vs 12 hp; a houseboat with a catapult rail; a small pilot icon with a "limited control" tag.
+
+SCENE 14
+NARRATION: On October seventh, nineteen oh three, it was launched. The machine caught on the launch rail and plunged straight into the river. Manly was pulled out, shaken but alive. Two days later, the Times wrote its million-year prediction.
+VISUAL: the aerodrome catching on the rail and dropping into water; a rescue arrow; a calendar showing two days.
+
+SCENE 15
+NARRATION: Langley had one more try. On December eighth, he launched again. This time the machine's rear structure tore apart, and the aerodrome fell into the Potomac once more. The government's money was gone. So was his reputation.
+ON-SCREEN TEXT: December 8, 1903
+VISUAL: second launch, the rear structure breaking away, splash; the money bar draining to zero.
+
+SCENE 16
+NARRATION: Six days later, the Wrights were ready at Kitty Hawk. On December fourteenth, they tossed a coin to decide who would try first. Wilbur won. He took off, climbed too steeply, and stalled. The Flyer settled into the sand with minor damage. It would take three days to repair it.
+VISUAL: a coin flipping; Wilbur's name lighting up; the Flyer climbing too steeply and settling; a repair timeline.
+
+SCENE 17
+NARRATION: Then came the morning of December seventeenth, nine days after Langley's last crash. Orville Wright lay down on the lower wing of the Wright Flyer. At ten thirty-five, it lifted off the track. Twelve seconds. A hundred and twenty feet. Shorter than the wingspan of a jumbo jet.
+ON-SCREEN TEXT: December 17, 1903 · 12 seconds
+VISUAL: a 9-day timeline counting down; the Flyer lifting off a rail; a length bar: 120 ft vs a jumbo jet's wingspan.
+
+SCENE 18
+NARRATION: Orville had set up a camera on a tripod, and asked a man from the nearby lifesaving station, John Daniels, to squeeze the bulb at the right moment. Daniels had never used a camera before. And his photograph, a fragile machine just off the ground, became one of the most famous images in history.
+VISUAL: a camera on a tripod; a bulb being squeezed; the famous image forming as a frame.
+
+SCENE 19
+NARRATION: They flew four times that day. The last flight, with Wilbur at the controls, lasted fifty-nine seconds and covered eight hundred and fifty-two feet. For the first time, a human being had flown in a powered, controlled airplane. Only five people saw it happen.
+ON-SCREEN TEXT: 4 flights · 5 witnesses
+VISUAL: four flight arcs growing longer, the last labelled 59 s / 852 ft; five small figures on the sand.
+
+SCENE 20
+NARRATION: That afternoon, Orville sent a telegram to their father. Success, four flights Thursday morning. Home for Christmas. A short sentence, for the biggest news of the century.
+VISUAL: a telegram form with the message typing out letter by letter; a Christmas date.
+
+SCENE 21
+NARRATION: And the world barely noticed. Newspapers called the claim exaggerated. Many simply didn't believe it. The brothers kept improving their machine in a quiet field outside Dayton, with almost no audience, afraid of copycats until they had a patent and a buyer. It wasn't until nineteen oh eight, when Wilbur flew in France, that crowds finally saw it with their own eyes.
+ON-SCREEN TEXT: 1908 · Wilbur in France
+VISUAL: newspaper clippings with "exaggerated" stamps; an empty field; then a huge crowd in France looking up.
+
+SCENE 22
+NARRATION: Langley died in nineteen oh six, after years of ridicule. But the story has one more cruel turn.
+ON-SCREEN TEXT: 1906
+VISUAL: a tombstone-style card with 1906; then a pause, large type: "One more turn."
+
+SCENE 23
+NARRATION: In a patent fight years later, a rival rebuilt Langley's aerodrome with major changes, and flew it. And the Smithsonian displayed that machine for years with a label calling it the first aeroplane in the history of the world capable of carrying a man in sustained free flight.
+VISUAL: the aerodrome getting new parts added; a museum label appearing in typewriter type (paraphrase, not a quote).
+
+SCENE 24
+NARRATION: Orville was furious. In protest, he sent the original Wright Flyer, the machine that made history, to a museum in London. Not to Washington. To another country.
+VISUAL: an arrow from Dayton, crossing the Atlantic to London.
+
+SCENE 25
+NARRATION: It stayed there for twenty years. Orville died in nineteen forty-eight. And the Wright Flyer finally came home to the Smithsonian that same year, where it hangs to this day.
+VISUAL: a timeline 1928 -> 1948; an arrow returning across the Atlantic.
+
+SCENE 26
+NARRATION: Langley had money, talent, and power. The Wrights had a question nobody else was asking. Not how do we leave the ground? But how do we stay in control once we're up there?
+VISUAL: the two question cards from the start return; the second glows amber.
+
+SCENE 27
+NARRATION: A million to ten million years. That was the prediction. It took ten weeks.
+VISUAL: the original headline with "1,000,000 years" crossed out and "10 weeks" written beside it.
+
+SCENE 28
+NARRATION: Next time: everyone says Thomas Edison invented the light bulb. He didn't. So who did?
+VISUAL: a light bulb with a question mark; end card: channel name.

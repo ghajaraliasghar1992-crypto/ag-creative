@@ -1,0 +1,103 @@
+VIDEO — "Edison Didn't Invent the Light Bulb. So Who Did?"
+
+SCENE 1
+NARRATION: In the autumn of eighteen eighty-one, a theatre in London did something no public building in the world had done before. It lit the whole place with electric light. Not gas. Not candles. Over a thousand glowing bulbs. And here's the part nobody tells you: those bulbs were not Thomas Edison's.
+ON-SCREEN TEXT: 1881 · Savoy Theatre
+VISUAL: a theatre facade at dusk; windows lighting up one by one; a counter rising past 1,000 lamps.
+
+SCENE 2
+NARRATION: If you grew up anywhere in the world, you were probably taught one name for the light bulb. Thomas Edison. But the real story is stranger, and a lot more interesting. It starts decades before either of them.
+VISUAL: the name "EDISON" in large type; a timeline stretching leftward into the past.
+
+SCENE 3
+NARRATION: To feel how big this was, imagine a city at night in the eighteen-seventies. Gas lamps on the streets. Gas in the theatres. The air smelled, the walls blackened, and fires were frighteningly common. A theatre could go up in flames in minutes. Whoever found a safer light would change how people lived after dark.
+VISUAL: a gas-lit street; a smoky ceiling; a theatre with a flame icon; a question: "what if there were no flame?"
+
+SCENE 4
+NARRATION: In the early eighteen hundreds, a chemist named Humphry Davy created a blinding electric arc between two sticks of carbon. It was spectacular. It was also far too fierce for a living room. It belonged on a street corner, not above a dinner table.
+VISUAL: two carbon rods with a bright arc between them; a living room with the arc crossed out; a street lamp with a check.
+
+SCENE 5
+NARRATION: The better idea was gentler. Pass electricity through a thin thread until it glows, inside a glass bulb with no air. Inventors chased that idea for decades. But the thread always burned out in seconds, or minutes.
+VISUAL: a bulb diagram: thin thread glowing, then a timer showing seconds before it breaks.
+
+SCENE 6
+NARRATION: Joseph Swan, a chemist in Newcastle, England, started on this problem in the eighteen-fifties. Around eighteen sixty, he had a working lamp with a strip of carbon. But the vacuum pumps of his day were poor. The bulb blackened, and died quickly. So Swan did what many inventors do. He put it away, and waited for the world to catch up.
+VISUAL: Swan's name card; a bulb darkening on the inside; a drawer closing on it.
+
+SCENE 7
+NARRATION: The world caught up in the late eighteen-seventies. Better vacuum pumps arrived. Swan went back to his lamps, and by eighteen seventy-eight and seventy-nine, he was showing working bulbs to audiences in Newcastle.
+VISUAL: a pump diagram improving; the drawer reopening; a small audience watching a glowing bulb.
+
+SCENE 8
+NARRATION: Across the Atlantic, Thomas Edison was running a research lab at Menlo Park, New Jersey. He had called it an invention factory, and promised a minor invention every ten days, and a big one every six months or so. He had investors, a team, and a very big promise: electric light for everyone.
+VISUAL: Edison's name card; a lab building with a sign "invention factory"; a calendar ticking every ten days.
+
+SCENE 9
+NARRATION: But Edison wasn't trying to build just a bulb. He was trying to build a whole system. The key, his team realised, was a filament with high resistance. That way, each lamp used very little current, and thousands of them could be wired side by side across a city. Without that idea, electric light stays a laboratory trick.
+VISUAL: a circuit diagram: a high-resistance filament with a small current arrow; many lamps in parallel lighting up across a city map.
+
+SCENE 10
+NARRATION: So they tested thousands of materials. Platinum. Paper. Cotton thread. Even bamboo. And on October twenty-second, eighteen seventy-nine, a carbonised cotton thread glowed for around thirteen and a half hours.
+ON-SCREEN TEXT: ~13.5 hours
+VISUAL: material icons flipping past with check/cross marks; a cotton thread glowing and a clock counting to 13.5 hours.
+
+SCENE 11
+NARRATION: But the cotton thread was only the beginning. Edison's team kept hunting for something tougher. They found carbonised bamboo that could glow for over a thousand hours, and Edison sent collectors around the world to find the best fibres. For years, bamboo from Japan was the heart of his lamps.
+VISUAL: a world map with collectors travelling to find fibres; a bamboo stalk turning into a glowing filament; a clock past 1,000 hours.
+
+SCENE 12
+NARRATION: On New Year's Eve, eighteen seventy-nine, Edison put on a public show at Menlo Park. Crowds came by train from New York to see lamps glowing with no flame at all. The newspapers loved it. He reportedly promised to make electric light so cheap that only the rich would burn candles.
+ON-SCREEN TEXT: December 31, 1879
+VISUAL: a train line from New York to a lit lab; crowd silhouettes; newspaper headlines; a candle labelled "only the rich".
+
+SCENE 13
+NARRATION: Meanwhile, back in England, Swan wasn't standing still. In eighteen eighty, he lit his own home in Gateshead with electric bulbs, one of the first houses in the world to glow like that.
+VISUAL: a house with windows turning on, one by one; a "1880" label.
+
+SCENE 14
+NARRATION: And Swan kept improving. He found a way to make filaments by squeezing a chemical solution through a nozzle to form a fine thread, a material that was an early form of artificial silk. A bulb filament that would soon become fabric.
+VISUAL: a nozzle squeezing a thread; the thread glowing in a bulb; the same thread woven into cloth.
+
+SCENE 15
+NARRATION: So at the Savoy, impresario Richard D'Oyly Carte put his faith in Swan's lamps. Over a thousand of them. And, according to the theatre's history, he proved they were safe by smashing a glowing bulb in front of the audience. No fire. Just a quiet, glowing glass.
+VISUAL: a stage; a hand smashing a glowing bulb; the audience leaning in; no fire.
+
+SCENE 16
+NARRATION: Now both men had patents, in different countries. And when Edison's lamps arrived in Britain, Swan was ready. A legal fight loomed. Instead of fighting to the end, in eighteen eighty-three they joined forces, and created one company: the Edison and Swan United Electric Light Company.
+ON-SCREEN TEXT: 1883 · Edison & Swan
+VISUAL: two patent papers facing each other; a legal-battle icon; the two papers merging into one company logo.
+
+SCENE 17
+NARRATION: There's another name worth knowing. Lewis Latimer, a Black inventor and draftsman, patented a better way to make carbon filaments in eighteen eighty-one. He later wrote one of the first books on electric lighting. Without people like him, the bulb stays on a lab bench.
+ON-SCREEN TEXT: Lewis Latimer
+VISUAL: a name card for Latimer; a filament manufacturing diagram; a book titled "Incandescent Electric Lighting" appearing.
+
+SCENE 18
+NARRATION: So why do we remember Edison? Because Edison didn't stop at the bulb. He built everything around it: generators, wiring, sockets, meters. In September eighteen eighty-two, his Pearl Street power station in Manhattan began selling electricity to customers.
+ON-SCREEN TEXT: September 1882 · Pearl Street
+VISUAL: system parts appearing one by one (generator, wires, socket, meter); a Manhattan map with a station and lines spreading.
+
+SCENE 19
+NARRATION: And Edison understood publicity better than almost anyone. Reporters. Demonstrations. A reputation as the Wizard of Menlo Park. Swan was a quiet scientist. Edison was a showman, with a system to sell. Swan was knighted in nineteen oh four. Edison became one of the most famous people on Earth.
+VISUAL: two name cards: a lab coat vs a spotlight; a knighthood icon beside Swan; a spotlight following Edison.
+
+SCENE 20
+NARRATION: Electric light changed night itself. Factories could run into the evening. Streets became safer. Shops stayed open. People read, worked, and gathered long after sunset. The darkness, which had ruled half of every day for all of human history, became optional.
+VISUAL: a day-night dial with the dark half turning amber; windows lighting up in a city grid.
+
+SCENE 21
+NARRATION: And funnily enough, the bulbs that made both men famous didn't last. In the early nineteen hundreds, carbon filaments gave way to tungsten, which glowed hotter and lasted longer. Today the filament itself is almost gone, replaced by LEDs. But the idea, a glowing thread in a glass bulb, ran for nearly a century.
+VISUAL: three bulbs in a row: carbon, tungsten, LED, each with a year label.
+
+SCENE 22
+NARRATION: So who invented the light bulb? Davy showed that electricity could make light. Swan built a working bulb. Edison made it practical, and put it in every home. Latimer helped make the filament better. Credit, in the real world, is rarely one person's.
+VISUAL: four name cards in a row, each with one line (light / bulb / every home / better filament).
+
+SCENE 23
+NARRATION: Remember that London theatre. The first public building in the world lit by electricity glowed with bulbs most people can't name. Because an invention isn't finished when it works. It's finished when it works for everyone.
+VISUAL: the opening theatre returns; the line "finished when it works for everyone" appears in large type.
+
+SCENE 24
+NARRATION: Next time: a machine that filled a room, that almost nobody thought they needed. And that now sits in your pocket. The story of the computer.
+VISUAL: a room-sized machine shrinking into a pocket-sized device; end card: channel name.

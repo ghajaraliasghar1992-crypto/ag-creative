@@ -1,0 +1,116 @@
+VIDEO — "Kodak Invented the Digital Camera. Then Buried It."
+
+SCENE 1
+NARRATION: In nineteen seventy-five, a twenty-four-year-old engineer carried a strange machine into a conference room at Kodak, and showed his bosses the future of photography. They watched. And one of them said: "That's cute. But don't tell anyone about it." Thirty-seven years later, Kodak went bankrupt. And the thing they told him to hide... is the reason why.
+ON-SCREEN TEXT: 1975
+VISUAL: dark room, a small machine on a table, a row of silhouettes watching; the quote appears in large type; a timeline jumps to 2012.
+
+SCENE 2
+NARRATION: This is the story of the most expensive mistake in the history of photography. And here is what makes it terrifying: nobody at Kodak was stupid. Every single decision made perfect sense. Right up until the end.
+VISUAL: a line of decisions (dots) each ticking a green check, then the line drops off a cliff.
+
+SCENE 3
+NARRATION: To understand how big Kodak was, picture America in nineteen seventy-five. By most estimates, about nine out of every ten rolls of film sold there came in a little yellow box. Weddings, birthdays, summer holidays. If it was remembered, it probably passed through Kodak.
+ON-SCREEN TEXT: ~90% of US film sales
+VISUAL: ten rolls in a row, nine fill with yellow.
+
+SCENE 4
+NARRATION: And it all started with a simple idea. In eighteen eighty-eight, George Eastman launched the Kodak camera with a slogan: You press the button, we do the rest. You took the pictures, mailed the whole camera back to the factory, and got it back with new film inside. Photography had been a hobby for chemists. Eastman turned it into a habit for everyone.
+VISUAL: an 1888 box camera; an arrow mailing it to a factory and back; the slogan in big type.
+
+SCENE 5
+NARRATION: And the business model was a work of genius. Sell the camera cheap, barely above cost. Then make a fortune selling the film, again and again, forever. Kodak even gave the world a phrase: a Kodak moment. Kodak wasn't really a camera company. It was a film company.
+VISUAL: a small camera with a low price tag, an arrow looping to a stack of film rolls with money coming out; the phrase "Kodak moment" fading in.
+
+SCENE 6
+NARRATION: Now meet Steven Sasson. Fresh out of school, newly hired as an electrical engineer at Kodak's lab in Rochester. His boss gave him a vague, almost casual task: find out whether a new invention called a CCD chip could be used to capture images.
+VISUAL: a chip icon with a question mark, a pixel grid appearing on it.
+
+SCENE 7
+NARRATION: No big budget. No team. A workbench, a lone technician, and a pile of spare parts. Nobody had ever built what he was attempting. So he scavenged. A movie camera lens. A cassette tape recorder. Batteries. Wires. A lot of wires.
+VISUAL: parts drop in one by one (lens, cassette, battery, wires) and snap together into a box.
+
+SCENE 8
+NARRATION: After about a year, he had it. A machine the size of a toaster, weighing about eight pounds. It captured a black-and-white image, one hundred pixels wide and one hundred tall, and stored it on a cassette tape. Your phone takes photos with more than a thousand times that detail. And it needed twenty-three seconds to record just one.
+ON-SCREEN TEXT: 100 × 100 pixels · 23 seconds
+VISUAL: a 100x100 grid filling in; a stopwatch counting to 23; a comparison bar "phone: 1,000x more".
+
+SCENE 9
+NARRATION: But a picture on a cassette is invisible. So Sasson built a second machine, a playback unit that read the tape and drew the image on an ordinary television. When it worked, the picture was grainy. Blurry. Beautiful. A photograph, with no film, no chemicals, and no darkroom. Sasson knew he was holding something that had never existed before.
+VISUAL: a TV with a grainy image resolving; crossed-out icons for "film", "chemicals", "darkroom".
+
+SCENE 10
+NARRATION: So he carried it into that conference room full of executives, and demonstrated it. Light in. Cassette tape. Television out. He expected excitement. He got confusion.
+VISUAL: a flow diagram: light -> camera -> cassette -> TV; a row of executives with question marks.
+
+SCENE 11
+NARRATION: They asked him: why would anyone want to look at photographs on a television? And then came the sentence he would remember for the rest of his life. "That's cute. But don't tell anyone about it."
+ON-SCREEN TEXT: "That's cute. But don't tell anyone."
+VISUAL: the quote in huge type, slowly fading.
+
+SCENE 12
+NARRATION: Here's the thing. They weren't irrational. A camera that needs no film is a direct threat to a company that makes its fortune selling film. For Kodak, Sasson hadn't brought them an invention. He'd brought them a very polite funeral invitation.
+VISUAL: the film-profit loop with a "no film" camera cutting through it.
+
+SCENE 13
+NARRATION: Imagine you're in that room. The costs are unclear. The picture quality is poor. And your entire business is booming. Saying, let's wait, doesn't feel like a mistake. It feels like wisdom. That is exactly how a company walks off a cliff, one reasonable decision at a time.
+VISUAL: a boardroom; a hand raising a "wait" sign; a path of reasonable-looking steps leading to an edge.
+
+SCENE 14
+NARRATION: But the story gets stranger. Because Kodak didn't ignore the idea. They did something worse.
+VISUAL: a pause. Title-card style, large type: "They did something worse."
+
+SCENE 15
+NARRATION: They locked it down. Kodak patented the technology, and then kept the idea on a shelf. Years later, an internal study warned that digital photography would likely overtake film, and urged the company to prepare. The company kept its eyes on film.
+VISUAL: a patent document sliding onto a shelf; a warning sign beside it; an eye looking away.
+
+SCENE 16
+NARRATION: Meanwhile, the world kept moving. In nineteen eighty-one, Sony showed off an electronic camera that needed no film at all. In the years after, Japanese rivals like Fuji and Canon quietly built digital machines. The door Kodak had opened was now being walked through by everyone else.
+VISUAL: a timeline 1981 onward, rival names appearing and walking through a door.
+
+SCENE 17
+NARRATION: Kodak wasn't asleep. In nineteen ninety-one, it released the DCS one hundred, a professional digital camera built on a Nikon body, costing around twenty thousand dollars. Its engineers kept pushing. But inside the company, digital kept being treated as a threat to manage, not a future to lead.
+ON-SCREEN TEXT: 1991 · DCS 100
+VISUAL: a bulky digital SLR with a price tag; an engineer pushing a boulder uphill; a manager holding a brake lever.
+
+SCENE 18
+NARRATION: And in nineteen ninety-six, Kodak launched Advantix, a new film format meant to refresh the old business for the digital age. It was a bet on the old business, with a new label.
+VISUAL: a film cartridge with a shiny new label; a digital icon waiting in the background.
+
+SCENE 19
+NARRATION: Eventually, Kodak did go digital. And it was good at it. In the early two-thousands, Kodak was among the best-selling digital camera brands in America. But now it had walked into a trap of its own making. Every digital camera sold meant fewer rolls of film sold. And film was where the profit lived. Kodak was competing against itself.
+VISUAL: two bars: digital cameras up, film rolls down; an arrow from one to the other.
+
+SCENE 20
+NARRATION: Then film sales fell off a cliff. Phones began carrying cameras. What Kodak had treated as a side project became the entire business overnight, and Kodak had no wall left to hide behind.
+VISUAL: a falling line chart; a phone with a camera lens appearing at the bottom.
+
+SCENE 21
+NARRATION: On January nineteenth, two thousand twelve, Kodak, the company that had invented the modern snapshot, filed for bankruptcy protection. A company that once employed well over a hundred thousand people.
+ON-SCREEN TEXT: January 19, 2012
+VISUAL: a calendar page turning to the date; a large headcount of dots shrinking.
+
+SCENE 22
+NARRATION: And here's the part that still stings. Less than three months later, a tiny photo-sharing app called Instagram was sold to Facebook for one billion dollars. How many employees did it have? Thirteen. Thirteen people, against a hundred thousand.
+ON-SCREEN TEXT: 13 employees vs 100,000+
+VISUAL: 13 dots on one side, a huge field of dots on the other.
+
+SCENE 23
+NARRATION: Kodak didn't disappear. It came out of bankruptcy in twenty thirteen as a much smaller company, focused on printing and commercial imaging. And the digital patents it had once kept on a shelf? In twenty twelve, Kodak sold a large bundle of them for roughly five hundred million dollars. The company that buried the idea ended up selling it.
+VISUAL: a patent bundle on a shelf being carried out; a price tag around $500M; a smaller logo emerging.
+
+SCENE 24
+NARRATION: And Steven Sasson? He spent decades at Kodak. And he was later awarded the National Medal of Technology and Innovation, one of America's highest honors for technological achievement. For inventing the exact thing his company asked him to hide.
+VISUAL: a medal icon appearing beside the original camera.
+
+SCENE 25
+NARRATION: So the lesson isn't that Kodak was foolish. They had the invention. The patent. The talent. The money. Even the warning. What they lacked was the courage to disrupt themselves before someone else did.
+VISUAL: five items checked off (invention, patent, talent, money, warning), then one empty box: "courage".
+
+SCENE 26
+NARRATION: Remember that sentence from the beginning. "That's cute. But don't tell anyone about it." The most dangerous words in business aren't "this will never work." They are "this works... and we would rather not know."
+VISUAL: the opening quote returns; "this will never work" crossed out; "this works... and we would rather not know" highlighted.
+
+SCENE 27
+NARRATION: Next time: on the very same day, in the very same city, two men raced to patent the telephone. Hours apart. One became a legend. The other was almost erased from history. Do you know his name?
+VISUAL: two patent papers side by side with a clock between them; end card: channel name.

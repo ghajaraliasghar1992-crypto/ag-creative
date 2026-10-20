@@ -1,0 +1,111 @@
+VIDEO — "Two Men Filed for the Telephone on the Same Day. Only One Name Survived."
+
+SCENE 1
+NARRATION: On February fourteenth, eighteen seventy-six, two sets of papers landed on the same desk at the United States Patent Office. Both described a machine that could carry the human voice along a wire. One of the men behind them would become immortal. The other would be nearly forgotten. And to this day, historians still argue about whether the winner played fair.
+ON-SCREEN TEXT: February 14, 1876
+VISUAL: a desk seen from above, two papers sliding in from opposite sides and landing together; a calendar date appears.
+
+SCENE 2
+NARRATION: In eighteen seventy-six, the telegraph ruled the world. It could send dots and dashes across oceans. But it carried one message at a time, down one wire, and it needed a trained operator at each end. Whoever fixed that problem was going to be very, very rich.
+VISUAL: a wire crossing a map with dots and dashes travelling along it; a single message icon in the wire; a "$" appears at the far end.
+
+SCENE 3
+NARRATION: Elisha Gray was already rich. A brilliant electrician, and co-founder of the company that became Western Electric, he held dozens of patents. He was chasing something called a harmonic telegraph: a way to send several messages down a single wire, using different musical tones.
+ON-SCREEN TEXT: Elisha Gray
+VISUAL: a name card for Gray; one wire carrying several coloured wave tones at once.
+
+SCENE 4
+NARRATION: Alexander Graham Bell was a different kind of man. A Scottish-born teacher of the deaf in Boston, obsessed with the science of sound. His mother had been nearly deaf. And the young woman he loved, Mabel Hubbard, had lost her hearing as a child. For Bell, sound wasn't a job. It was personal.
+ON-SCREEN TEXT: Alexander Graham Bell
+VISUAL: a name card for Bell; a sound wave visual fading into silence; two small icons of an ear.
+
+SCENE 5
+NARRATION: Mabel's father, a wealthy lawyer named Gardiner Hubbard, was paying for Bell's experiments. But Hubbard wanted a better telegraph. Bell, privately, wanted something wilder. A machine that could carry a voice.
+VISUAL: money flowing from Hubbard to Bell labelled "telegraph"; a small voice-wave icon next to it labelled "voice?".
+
+SCENE 6
+NARRATION: In June of eighteen seventy-five, Bell's assistant, Thomas Watson, was trying to free a stuck metal reed. It twanged. And in the next room, Bell heard a faint sound that had travelled along the wire. He realised that he didn't need separate notes. He needed one wire that could change smoothly, just like the human voice.
+VISUAL: two rooms joined by a wire; a reed twanging in room one; a wave travelling the wire; the wave smoothing into a continuous curve.
+
+SCENE 7
+NARRATION: Now two men were racing toward the same invention. Neither knew exactly how close the other was.
+VISUAL: two lines racing across the screen, almost level.
+
+SCENE 8
+NARRATION: Gray's plan was a transmitter with a thin diaphragm and a needle dipping in liquid. As the voice vibrated the diaphragm, the electrical resistance would change. In early February, he sketched it, and his lawyer prepared a caveat. A caveat is a kind of notice that says: I'm working on this. Don't hand it to anyone else.
+VISUAL: a cutaway diagram: voice waves hitting a diaphragm, a needle dipping into liquid, resistance changing; a "CAVEAT" stamp.
+
+SCENE 9
+NARRATION: Bell's lawyers filed something stronger. A full patent application. A caveat is a promise. An application is a claim of ownership. And that difference would decide everything.
+VISUAL: two labelled documents: "CAVEAT = a promise", "APPLICATION = a claim"; the second glows amber.
+
+SCENE 10
+NARRATION: Both reached the Patent Office on the same day. By most accounts, Bell's papers were entered in the morning. Gray's arrived a few hours later. A few hours.
+ON-SCREEN TEXT: A few hours apart
+VISUAL: a clock face: morning marker for Bell, afternoon marker for Gray; the gap highlighted.
+
+SCENE 11
+NARRATION: Here's how the system worked. If a full application arrived that overlapped with a caveat, the caveat holder was notified, and had a short window, about three months, to turn his notice into a real application. According to many accounts, Gray decided not to fight. His telegraph work looked far more valuable than a talking toy. It's the kind of judgement that looks sensible, right up until it doesn't.
+VISUAL: a notice arriving at Gray's desk; a three-month calendar; Gray's hand waving it away; a "telegraph = money" scale outweighing "toy".
+
+SCENE 12
+NARRATION: On March seventh, patent number one seventy-four thousand, four hundred and sixty-five was granted to Alexander Graham Bell. It would become one of the most valuable patents in history.
+ON-SCREEN TEXT: March 7, 1876 · Patent 174,465
+VISUAL: a patent paper with a seal stamping down; the number counting up to 174,465.
+
+SCENE 13
+NARRATION: But here's where the story turns dark. Three days later, on March tenth, Bell finally got his telephone to work. And the design he used had a diaphragm, and a needle dipping in liquid. The very idea described in Gray's caveat.
+ON-SCREEN TEXT: March 10, 1876
+VISUAL: Gray's diagram slides in next to Bell's working device; matching parts get connected by amber lines.
+
+SCENE 14
+NARRATION: According to Bell's own notes, he had spilled battery acid on his clothes. And he called out for help. "Mr. Watson, come here. I want to see you." And in the next room, Watson heard every word.
+ON-SCREEN TEXT: "Mr. Watson, come here."
+VISUAL: two rooms with a wire; a small spill icon; the quote travels as a wave from one room to the other.
+
+SCENE 15
+NARRATION: Had Bell seen Gray's idea first? Years later, a patent examiner named Zenas Wilber swore that he had shown Bell the details of Gray's filing. Others disputed his story, and his own account shifted over time. Some historians point to Bell's notebooks, which show a sudden turn toward the liquid design just before his breakthrough.
+VISUAL: a question mark over a file; a notebook page with a line sweeping toward a liquid-diagram sketch; neutral tone, no accusation.
+
+SCENE 16
+NARRATION: Bell always denied copying anyone. And the courts sided with him. After years of lawsuits, the Supreme Court upheld his patent in eighteen eighty-eight, in a split decision.
+ON-SCREEN TEXT: 1888 · Supreme Court · 4–3
+VISUAL: nine seats, four tilted one way and three the other.
+
+SCENE 17
+NARRATION: In June of eighteen seventy-six, at the Centennial Exhibition in Philadelphia, Bell's telephone was shown to the judges. The Emperor of Brazil, Dom Pedro, is said to have put the receiver to his ear and exclaimed: "My God, it talks!" Overnight, a curiosity became a sensation.
+VISUAL: a grand exhibition hall; an emperor figure lifting a receiver; a speech bubble with the quote.
+
+SCENE 18
+NARRATION: In July of eighteen seventy-seven, the Bell Telephone Company was founded. Days later, Bell married Mabel Hubbard. And as a wedding gift, he reportedly gave her nearly all of his shares in the company. The woman who had inspired his work in sound became one of its biggest owners.
+ON-SCREEN TEXT: 1877 · Bell Telephone Company
+VISUAL: a wedding date next to a company charter; shares flowing to Mabel.
+
+SCENE 19
+NARRATION: The money that followed was almost unimaginable. Bell's company grew into AT&T. And Western Union, the telegraph giant, reportedly turned down the chance to buy the patent for a hundred thousand dollars, dismissing the telephone as a toy. Then it hired a young inventor to build a better transmitter. His name was Thomas Edison.
+VISUAL: a small telephone growing into a network of lines; a "$100,000" offer crossed out with "a toy"; Edison's name card sliding in.
+
+SCENE 20
+NARRATION: There's even a small, funny detail from those early days. Bell favoured answering the telephone with the word, ahoy. Edison pushed for a different word. Hello. And that's the one that stuck.
+VISUAL: two speech bubbles: "Ahoy!" crossed out, "Hello?" glowing.
+
+SCENE 21
+NARRATION: And Gray? He kept inventing, and earned real success. He built the telautograph, a device that could send handwriting down a wire. But his name never made it onto the telephone.
+VISUAL: a pen moving on one paper while a second pen copies it across a wire; Gray's name card slowly fading.
+
+SCENE 22
+NARRATION: There's even a third name. Antonio Meucci, an Italian inventor living in New York, had built a voice device years earlier and filed a caveat of his own, in eighteen seventy-one. He couldn't afford to renew it. In two thousand two, the United States House of Representatives passed a resolution honouring his work.
+ON-SCREEN TEXT: Antonio Meucci
+VISUAL: a third name card; a caveat dated 1871 with a "renewal fee" tag; 2002 appears.
+
+SCENE 23
+NARRATION: So who invented the telephone? Maybe all of them, in a way. But history doesn't give credit to the first person with an idea. It gives it to the first person who files it, protects it, and fights for it.
+VISUAL: three name cards; one gets an amber glow, the other two stay grey.
+
+SCENE 24
+NARRATION: Two sets of papers. One desk. A few hours. That's all that separated a legend from a footnote.
+VISUAL: return to the opening desk with two papers; one slides forward, the other drops back.
+
+SCENE 25
+NARRATION: Next time: two bicycle mechanics from Ohio went up against a famous scientist with government money. And nine days after that scientist crashed his flying machine into a river, they changed the world.
+VISUAL: a bicycle wheel turning into a propeller; end card: channel name.

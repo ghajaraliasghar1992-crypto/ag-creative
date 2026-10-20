@@ -1,111 +1,37 @@
 {
-  "title": "The Company That Invented the Digital Camera... and Buried It",
+  "title": "Kodak Invented the Digital Camera. Then Buried It.",
+  "channel": "How Things Began",
   "format": "long",
   "description": "In 1975 a 24-year-old Kodak engineer built the first digital camera. His bosses told him to keep it quiet. Thirty-seven years later, Kodak was bankrupt. This is the story of the most expensive mistake in the history of photography.",
-  "tags": [
-    "kodak",
-    "history of the digital camera",
-    "steven sasson",
-    "why kodak failed",
-    "kodak bankruptcy",
-    "invention history",
-    "business case study"
-  ],
-  "notes": "FACT-CHECK before recording: Kodak market share (~90% film, mid-70s estimate), the 'cute, don't tell anyone' quote (Sasson's own recollection), 1981 internal study, Instagram headcount/price, Kodak peak headcount.",
+  "tags": ["kodak", "history of the digital camera", "steven sasson", "why kodak failed", "kodak bankruptcy", "invention history", "business history"],
+  "notes": "FACT-CHECK before recording: Kodak market share (~90% film, mid-70s estimate); Eastman 1888 slogan and mail-in camera; Sasson build details; the 'cute, don't tell anyone' quote (Sasson's own recollection); 1981 internal study; DCS 100 (1991, ~$20k+); Advantix/APS 1996; Kodak #1 US digital camera brand c.2005; Jan 19, 2012 bankruptcy; Instagram 13 employees / $1B (April 2012); Kodak patents sale ~$525M (Dec 2012); emergence 2013; National Medal. Target runtime ~8+ min (check real audio length).",
   "scenes": [
-    {
-      "text": "In nineteen seventy-five, a twenty-four-year-old engineer carried a strange machine into a conference room at Kodak, and showed his bosses the future of photography. They watched. And one of them said: \"That's cute. But don't tell anyone about it.\" Thirty-seven years later, Kodak went bankrupt. And the thing they told him to hide... is the reason why.",
-      "image": "Kodak Rochester New York headquarters",
-      "overlay": "1975"
-    },
-    {
-      "text": "This is the story of the most expensive mistake in the history of photography. And here is what makes it terrifying: nobody at Kodak was stupid. Every single decision made perfect sense. Right up until the end.",
-      "image": "Eastman Kodak Company building"
-    },
-    {
-      "text": "To understand how big Kodak was, picture America in nineteen seventy-five. By most estimates, about nine out of every ten rolls of film sold there came in a little yellow box. Weddings, birthdays, summer holidays. If it was remembered, it probably passed through Kodak.",
-      "image": "Kodak film yellow box vintage",
-      "overlay": "~90% of US film sales"
-    },
-    {
-      "text": "And the business model was a work of genius. Founder George Eastman had worked it out decades earlier: sell the camera cheap, barely above cost. Then make a fortune selling the film, again and again, forever. Kodak wasn't really a camera company. It was a film company.",
-      "image": "George Eastman portrait"
-    },
-    {
-      "text": "Now meet Steven Sasson. Fresh out of school, newly hired as an electrical engineer at Kodak's lab in Rochester. His boss gave him a vague, almost casual task: find out whether a new invention called a CCD chip could be used to capture images.",
-      "image": "Steven Sasson Kodak engineer"
-    },
-    {
-      "text": "No big budget. No team. A workbench, a lone technician, and a pile of spare parts. Nobody had ever built what he was attempting. So he scavenged. A movie camera lens. A cassette tape recorder. Batteries. Wires. A lot of wires.",
-      "image": "charge-coupled device CCD sensor"
-    },
-    {
-      "text": "After about a year, he had it. A machine the size of a toaster, weighing about eight pounds. It captured a black-and-white image, one hundred pixels wide and one hundred tall, and stored it on a cassette tape. Your phone takes photos with more than a thousand times that detail. And it needed twenty-three seconds to record just one.",
-      "image": "first digital camera Kodak 1975 prototype",
-      "overlay": "100 × 100 pixels · 23 seconds"
-    },
-    {
-      "text": "But then the image appeared on a television screen. Grainy. Blurry. Beautiful. A photograph, with no film, no chemicals, and no darkroom. Sasson knew he was holding something that had never existed before.",
-      "image": "old television screen static"
-    },
-    {
-      "text": "So he carried it into that conference room full of executives, and demonstrated it. Light in. Cassette tape. Television out. He expected excitement. He got confusion.",
-      "image": "1970s conference room executives"
-    },
-    {
-      "text": "They asked him: why would anyone want to look at photographs on a television? And then came the sentence he would remember for the rest of his life. \"That's cute. But don't tell anyone about it.\"",
-      "image": "1970s businessmen meeting",
-      "overlay": "\"That's cute. But don't tell anyone.\""
-    },
-    {
-      "text": "Here's the thing. They weren't irrational. A camera that needs no film is a direct threat to a company that makes its fortune selling film. For Kodak, Sasson hadn't brought them an invention. He'd brought them a very polite funeral invitation.",
-      "image": "Kodak film rolls"
-    },
-    {
-      "text": "But the story gets stranger. Because Kodak didn't ignore the idea. They did something worse.",
-      "image": "patent document 1970s"
-    },
-    {
-      "text": "They locked it down. Kodak patented the technology, and then kept the idea on a shelf. Years later, an internal study warned that digital photography would likely overtake film, and urged the company to prepare. The company kept its eyes on film.",
-      "image": "Kodak laboratory 1980s"
-    },
-    {
-      "text": "Meanwhile, the world kept moving. In nineteen eighty-one, Sony showed off an electronic camera that needed no film at all. In the years after, Japanese rivals like Fuji and Canon quietly built digital machines. The door Kodak had opened was now being walked through by everyone else.",
-      "image": "Sony Mavica prototype 1981"
-    },
-    {
-      "text": "Kodak did eventually go digital. And it was good at it. In the early two-thousands, Kodak was among the best-selling digital camera brands in America. But now it had walked into a trap of its own making. Every digital camera sold meant fewer rolls of film sold. And film was where the profit lived. Kodak was competing against itself.",
-      "image": "Kodak EasyShare digital camera"
-    },
-    {
-      "text": "Then film sales fell off a cliff. Phones began carrying cameras. What Kodak had treated as a side project became the entire business overnight, and Kodak had no wall left to hide behind.",
-      "image": "early camera phone"
-    },
-    {
-      "text": "On January nineteenth, two thousand twelve, Kodak, the company that had invented the modern snapshot, filed for bankruptcy protection. A company that once employed well over a hundred thousand people.",
-      "image": "Kodak Rochester building decline",
-      "overlay": "January 19, 2012"
-    },
-    {
-      "text": "And here's the part that still stings. Less than three months later, a tiny photo-sharing app called Instagram was sold to Facebook for one billion dollars. How many employees did it have? Thirteen. Thirteen people, against a hundred thousand.",
-      "image": "Instagram logo",
-      "overlay": "13 employees vs 100,000+"
-    },
-    {
-      "text": "And Steven Sasson? He spent decades at Kodak. And he was later awarded the National Medal of Technology and Innovation, one of America's highest honors for technological achievement. For inventing the exact thing his company asked him to hide.",
-      "image": "National Medal of Technology and Innovation"
-    },
-    {
-      "text": "So the lesson isn't that Kodak was foolish. They had the invention. The patent. The talent. The money. Even the warning. What they lacked was the courage to disrupt themselves before someone else did.",
-      "image": "Kodak vintage camera advertisement"
-    },
-    {
-      "text": "Remember that sentence from the beginning. \"That's cute. But don't tell anyone about it.\" The most dangerous words in business aren't \"this will never work.\" They are \"this works... and we would rather not know.\"",
-      "image": "digital camera sensor close up"
-    },
-    {
-      "text": "Next time: on the very same day, in the very same city, two men raced to patent the telephone. Hours apart. One became a legend. The other was almost erased from history. Do you know his name?",
-      "image": "Alexander Graham Bell telephone 1876"
-    }
+    {"text": "In nineteen seventy-five, a twenty-four-year-old engineer carried a strange machine into a conference room at Kodak, and showed his bosses the future of photography. They watched. And one of them said: \"That's cute. But don't tell anyone about it.\" Thirty-seven years later, Kodak went bankrupt. And the thing they told him to hide... is the reason why.", "image": "Kodak Rochester New York headquarters", "overlay": "1975", "visual": "dark room, a small machine on a table, a row of silhouettes watching; the quote appears in large type; a timeline jumps to 2012."},
+    {"text": "This is the story of the most expensive mistake in the history of photography. And here is what makes it terrifying: nobody at Kodak was stupid. Every single decision made perfect sense. Right up until the end.", "image": "Eastman Kodak Company building", "visual": "a line of decisions (dots) each ticking a green check, then the line drops off a cliff."},
+    {"text": "To understand how big Kodak was, picture America in nineteen seventy-five. By most estimates, about nine out of every ten rolls of film sold there came in a little yellow box. Weddings, birthdays, summer holidays. If it was remembered, it probably passed through Kodak.", "image": "Kodak film yellow box vintage", "overlay": "~90% of US film sales", "visual": "ten rolls in a row, nine fill with yellow."},
+    {"text": "And it all started with a simple idea. In eighteen eighty-eight, George Eastman launched the Kodak camera with a slogan: You press the button, we do the rest. You took the pictures, mailed the whole camera back to the factory, and got it back with new film inside. Photography had been a hobby for chemists. Eastman turned it into a habit for everyone.", "image": "George Eastman portrait", "visual": "an 1888 box camera; an arrow mailing it to a factory and back; the slogan in big type."},
+    {"text": "And the business model was a work of genius. Sell the camera cheap, barely above cost. Then make a fortune selling the film, again and again, forever. Kodak even gave the world a phrase: a Kodak moment. Kodak wasn't really a camera company. It was a film company.", "image": "Kodak Brownie camera advertisement", "visual": "a small camera with a low price tag, an arrow looping to a stack of film rolls with money coming out; the phrase \"Kodak moment\" fading in."},
+    {"text": "Now meet Steven Sasson. Fresh out of school, newly hired as an electrical engineer at Kodak's lab in Rochester. His boss gave him a vague, almost casual task: find out whether a new invention called a CCD chip could be used to capture images.", "image": "Steven Sasson Kodak engineer", "visual": "a chip icon with a question mark, a pixel grid appearing on it."},
+    {"text": "No big budget. No team. A workbench, a lone technician, and a pile of spare parts. Nobody had ever built what he was attempting. So he scavenged. A movie camera lens. A cassette tape recorder. Batteries. Wires. A lot of wires.", "image": "charge-coupled device CCD sensor", "visual": "parts drop in one by one (lens, cassette, battery, wires) and snap together into a box."},
+    {"text": "After about a year, he had it. A machine the size of a toaster, weighing about eight pounds. It captured a black-and-white image, one hundred pixels wide and one hundred tall, and stored it on a cassette tape. Your phone takes photos with more than a thousand times that detail. And it needed twenty-three seconds to record just one.", "image": "first digital camera Kodak 1975 prototype", "overlay": "100 × 100 pixels · 23 seconds", "visual": "a 100x100 grid filling in; a stopwatch counting to 23; a comparison bar \"phone: 1,000x more\"."},
+    {"text": "But a picture on a cassette is invisible. So Sasson built a second machine, a playback unit that read the tape and drew the image on an ordinary television. When it worked, the picture was grainy. Blurry. Beautiful. A photograph, with no film, no chemicals, and no darkroom. Sasson knew he was holding something that had never existed before.", "image": "old television screen static", "visual": "a TV with a grainy image resolving; crossed-out icons for \"film\", \"chemicals\", \"darkroom\"."},
+    {"text": "So he carried it into that conference room full of executives, and demonstrated it. Light in. Cassette tape. Television out. He expected excitement. He got confusion.", "image": "1970s conference room executives", "visual": "a flow diagram: light -> camera -> cassette -> TV; a row of executives with question marks."},
+    {"text": "They asked him: why would anyone want to look at photographs on a television? And then came the sentence he would remember for the rest of his life. \"That's cute. But don't tell anyone about it.\"", "image": "1970s businessmen meeting", "overlay": "\"That's cute. But don't tell anyone.\"", "visual": "the quote in huge type, slowly fading."},
+    {"text": "Here's the thing. They weren't irrational. A camera that needs no film is a direct threat to a company that makes its fortune selling film. For Kodak, Sasson hadn't brought them an invention. He'd brought them a very polite funeral invitation.", "image": "Kodak film rolls", "visual": "the film-profit loop with a \"no film\" camera cutting through it."},
+    {"text": "Imagine you're in that room. The costs are unclear. The picture quality is poor. And your entire business is booming. Saying, let's wait, doesn't feel like a mistake. It feels like wisdom. That is exactly how a company walks off a cliff, one reasonable decision at a time.", "image": "executives boardroom 1970s", "visual": "a boardroom; a hand raising a \"wait\" sign; a path of reasonable-looking steps leading to an edge."},
+    {"text": "But the story gets stranger. Because Kodak didn't ignore the idea. They did something worse.", "image": "patent document 1970s", "visual": "a pause. Title-card style, large type: \"They did something worse.\""},
+    {"text": "They locked it down. Kodak patented the technology, and then kept the idea on a shelf. Years later, an internal study warned that digital photography would likely overtake film, and urged the company to prepare. The company kept its eyes on film.", "image": "Kodak laboratory 1980s", "visual": "a patent document sliding onto a shelf; a warning sign beside it; an eye looking away."},
+    {"text": "Meanwhile, the world kept moving. In nineteen eighty-one, Sony showed off an electronic camera that needed no film at all. In the years after, Japanese rivals like Fuji and Canon quietly built digital machines. The door Kodak had opened was now being walked through by everyone else.", "image": "Sony Mavica prototype 1981", "visual": "a timeline 1981 onward, rival names appearing and walking through a door."},
+    {"text": "Kodak wasn't asleep. In nineteen ninety-one, it released the DCS one hundred, a professional digital camera built on a Nikon body, costing around twenty thousand dollars. Its engineers kept pushing. But inside the company, digital kept being treated as a threat to manage, not a future to lead.", "image": "Kodak DCS 100 digital camera 1991", "overlay": "1991 · DCS 100", "visual": "a bulky digital SLR with a price tag; an engineer pushing a boulder uphill; a manager holding a brake lever."},
+    {"text": "And in nineteen ninety-six, Kodak launched Advantix, a new film format meant to refresh the old business for the digital age. It was a bet on the old business, with a new label.", "image": "Kodak Advantix APS film", "visual": "a film cartridge with a shiny new label; a digital icon waiting in the background."},
+    {"text": "Eventually, Kodak did go digital. And it was good at it. In the early two-thousands, Kodak was among the best-selling digital camera brands in America. But now it had walked into a trap of its own making. Every digital camera sold meant fewer rolls of film sold. And film was where the profit lived. Kodak was competing against itself.", "image": "Kodak EasyShare digital camera", "visual": "two bars: digital cameras up, film rolls down; an arrow from one to the other."},
+    {"text": "Then film sales fell off a cliff. Phones began carrying cameras. What Kodak had treated as a side project became the entire business overnight, and Kodak had no wall left to hide behind.", "image": "early camera phone", "visual": "a falling line chart; a phone with a camera lens appearing at the bottom."},
+    {"text": "On January nineteenth, two thousand twelve, Kodak, the company that had invented the modern snapshot, filed for bankruptcy protection. A company that once employed well over a hundred thousand people.", "image": "Kodak Rochester building decline", "overlay": "January 19, 2012", "visual": "a calendar page turning to the date; a large headcount of dots shrinking."},
+    {"text": "And here's the part that still stings. Less than three months later, a tiny photo-sharing app called Instagram was sold to Facebook for one billion dollars. How many employees did it have? Thirteen. Thirteen people, against a hundred thousand.", "image": "Instagram logo", "overlay": "13 employees vs 100,000+", "visual": "13 dots on one side, a huge field of dots on the other."},
+    {"text": "Kodak didn't disappear. It came out of bankruptcy in twenty thirteen as a much smaller company, focused on printing and commercial imaging. And the digital patents it had once kept on a shelf? In twenty twelve, Kodak sold a large bundle of them for roughly five hundred million dollars. The company that buried the idea ended up selling it.", "image": "Kodak logo", "visual": "a patent bundle on a shelf being carried out; a price tag around $500M; a smaller logo emerging."},
+    {"text": "And Steven Sasson? He spent decades at Kodak. And he was later awarded the National Medal of Technology and Innovation, one of America's highest honors for technological achievement. For inventing the exact thing his company asked him to hide.", "image": "National Medal of Technology and Innovation", "visual": "a medal icon appearing beside the original camera."},
+    {"text": "So the lesson isn't that Kodak was foolish. They had the invention. The patent. The talent. The money. Even the warning. What they lacked was the courage to disrupt themselves before someone else did.", "image": "Kodak vintage camera advertisement", "visual": "five items checked off (invention, patent, talent, money, warning), then one empty box: \"courage\"."},
+    {"text": "Remember that sentence from the beginning. \"That's cute. But don't tell anyone about it.\" The most dangerous words in business aren't \"this will never work.\" They are \"this works... and we would rather not know.\"", "image": "digital camera sensor close up", "visual": "the opening quote returns; \"this will never work\" crossed out; \"this works... and we would rather not know\" highlighted."},
+    {"text": "Next time: on the very same day, in the very same city, two men raced to patent the telephone. Hours apart. One became a legend. The other was almost erased from history. Do you know his name?", "image": "Alexander Graham Bell telephone 1876", "visual": "two patent papers side by side with a clock between them; end card: channel name."}
   ]
 }

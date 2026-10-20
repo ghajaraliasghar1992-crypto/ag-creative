@@ -1,103 +1,38 @@
 {
   "title": "He Had $70,000 and the Smithsonian. Two Bicycle Mechanics Beat Him in 9 Days.",
+  "channel": "How Things Began",
   "format": "long",
   "description": "In 1903, Samuel Langley had government money, the Smithsonian, and the best engineers in America. Two bicycle mechanics from Ohio had almost nothing. This is how Wilbur and Orville Wright beat him to the first airplane flight, and the bitter fight over who deserved the credit.",
-  "tags": [
-    "wright brothers",
-    "how the airplane was invented",
-    "samuel langley",
-    "first flight",
-    "kitty hawk",
-    "wright brothers vs langley",
-    "invention history"
-  ],
-  "notes": "FACT-CHECK before recording: NYT editorial Oct 9, 1903 ('one million to ten million years'); Langley funding (~$50,000 War Dept + Smithsonian funds, ~$70,000 total is a common estimate); Wrights' budget 'under $1,000' (their own account); Oct 7 and Dec 8, 1903 Aerodrome failures; Dec 17 flight times/distances (12s/120ft, 59s/852ft); five witnesses; Charlie Taylor engine; wind tunnel Fall 1901, ~200 wing shapes; Langley died Feb 1906; 1914 Curtiss Aerodrome flights; Smithsonian label until 1928; Flyer to London 1928, returned Dec 1948.",
+  "tags": ["wright brothers", "how the airplane was invented", "samuel langley", "first flight", "kitty hawk", "wright brothers vs langley", "invention history"],
+  "notes": "FACT-CHECK before recording: NYT editorial Oct 9, 1903 ('one million to ten million years'); Langley funding (~$50,000 War Dept + Smithsonian funds, ~$70,000 total is a common estimate); Langley 1896 unmanned model flight (~3/4 mile); Wrights' budget 'under $1,000' (their own account); toy helicopter 1878; Lilienthal 1896 and Wilbur's 1899 letter to the Smithsonian; inner-tube box anecdote; Kitty Hawk choice; Oct 7 and Dec 8, 1903 Aerodrome failures and wording ('tail tore away' vs rear structure collapsed); engine horsepower (Manly-Balzer ~52 hp vs Wright ~12 hp); coin toss Dec 14; Dec 17 flight times/distances (12s/120ft, 59s/852ft); five witnesses; John Daniels photo; telegram wording; Wilbur's 1908 France flights; Langley died Feb 1906; 1914 Curtiss Aerodrome flights; Smithsonian label until 1928; Flyer to London 1928, returned Dec 1948. Target runtime ~8+ min (check real audio length).",
   "scenes": [
-    {
-      "text": "On October ninth, nineteen oh three, the New York Times published a prediction. A flying machine, it said, might be developed in a million to ten million years. Ten weeks later, two bicycle mechanics from Ohio proved the newspaper wrong. And the man the paper was mocking had been given about seventy thousand dollars, mostly of public money, to do it first.",
-      "image": "New York Times 1903 newspaper",
-      "overlay": "October 9, 1903"
-    },
-    {
-      "text": "Samuel Pierpont Langley was the obvious favourite. Secretary of the Smithsonian Institution. A celebrated astronomer. Friends in Washington, a team of engineers, and the backing of the War Department. If anyone in America was going to fly, everyone assumed it would be him.",
-      "image": "Samuel Pierpont Langley"
-    },
-    {
-      "text": "Wilbur and Orville Wright ran a bicycle shop in Dayton, Ohio. Neither had a college degree. By their own account, they spent less than a thousand dollars on their first airplane, mostly from the money the shop made.",
-      "image": "Wright Cycle Company Dayton Ohio",
-      "overlay": "Budget: under $1,000"
-    },
-    {
-      "text": "But they had something Langley didn't: a different question. Langley believed flight was a power problem. Build a strong enough engine, a big enough wing, and the machine would rise. The Wrights thought the real problem was control. A bird doesn't just float. It steers, constantly. And a bicycle had taught them that something unstable can be balanced, if the rider adjusts it every second.",
-      "image": "Wright brothers glider 1902"
-    },
-    {
-      "text": "Then they hit a wall. The published data on wing lift, from the famous glider pioneer Otto Lilienthal, turned out to be wrong. Their gliders performed worse than predicted. So in the autumn of nineteen oh one, they built something no one in their business had ever needed. A wind tunnel. A wooden box with a fan.",
-      "image": "Wright brothers wind tunnel replica",
-      "overlay": "1901 · 200+ wing designs"
-    },
-    {
-      "text": "They tested over two hundred wing shapes. It cost almost nothing, and it gave them the best aerodynamic data in the world. The brothers weren't guessing anymore.",
-      "image": "Wright brothers wind tunnel wing models"
-    },
-    {
-      "text": "No engine maker could supply a motor light enough. So their shop mechanic, Charlie Taylor, built one in about six weeks. And the brothers designed their propellers as rotating wings, a problem no one had solved properly before.",
-      "image": "Wright Flyer engine Charlie Taylor"
-    },
-    {
-      "text": "Meanwhile, Langley's machine, the Great Aerodrome, was a feat of engineering muscle. It was launched from the roof of a houseboat on the Potomac River, with a pilot named Charles Manly. But it gave the pilot very little control once it was in the air.",
-      "image": "Langley Aerodrome houseboat Potomac"
-    },
-    {
-      "text": "On October seventh, nineteen oh three, it was launched. The machine caught on the launch rail and plunged straight into the river. Manly was pulled out, shaken but alive. Two days later, the Times wrote its million-year prediction.",
-      "image": "Langley Aerodrome crash Potomac 1903"
-    },
-    {
-      "text": "Langley had one more try. On December eighth, he launched again. This time the tail tore away, and the aerodrome fell into the Potomac once more. The government's money was gone. So was his reputation.",
-      "image": "Langley Aerodrome December 1903 failed launch",
-      "overlay": "December 8, 1903"
-    },
-    {
-      "text": "Nine days later, on a windswept strip of sand at Kitty Hawk, North Carolina, Orville Wright lay down on the lower wing of the Wright Flyer. At ten thirty-five that morning, it lifted off the track. Twelve seconds. A hundred and twenty feet. Shorter than the wingspan of a jumbo jet.",
-      "image": "Wright brothers first flight December 17 1903",
-      "overlay": "December 17, 1903 · 12 seconds"
-    },
-    {
-      "text": "They flew four times that day. The last flight, with Wilbur at the controls, lasted fifty-nine seconds and covered eight hundred and fifty-two feet. For the first time, a human being had flown in a powered, controlled airplane. Only five people saw it happen.",
-      "image": "Wright Flyer Kitty Hawk 1903 photograph",
-      "overlay": "4 flights · 5 witnesses"
-    },
-    {
-      "text": "And the world barely noticed. Newspapers called the claim exaggerated. Many simply didn't believe it. The brothers returned to Ohio, and kept improving their machine in a quiet field outside Dayton, with almost no audience.",
-      "image": "Wright Flyer III Huffman Prairie"
-    },
-    {
-      "text": "Langley died in nineteen oh six, after years of ridicule. But the story has one more cruel turn.",
-      "image": "Smithsonian Institution Castle 1900s"
-    },
-    {
-      "text": "In a patent fight years later, a rival rebuilt Langley's aerodrome with major changes, and flew it. And the Smithsonian displayed that machine for years with a label calling it the first aeroplane in the history of the world capable of carrying a man in sustained free flight.",
-      "image": "Langley Aerodrome Smithsonian display"
-    },
-    {
-      "text": "Orville was furious. In protest, he sent the original Wright Flyer, the machine that made history, to a museum in London. Not to Washington. To another country.",
-      "image": "Wright Flyer Science Museum London"
-    },
-    {
-      "text": "It stayed there for twenty years. Orville died in nineteen forty-eight. And the Wright Flyer finally came home to the Smithsonian that same year, where it hangs to this day.",
-      "image": "Wright Flyer National Air and Space Museum"
-    },
-    {
-      "text": "Langley had money, talent, and power. The Wrights had a question nobody else was asking. Not how do we leave the ground? But how do we stay in control once we're up there?",
-      "image": "Wright brothers airplane flying 1908"
-    },
-    {
-      "text": "A million to ten million years. That was the prediction. It took ten weeks.",
-      "image": "Wright Flyer 1903 first flight Orville Wilbur"
-    },
-    {
-      "text": "Next time: everyone says Thomas Edison invented the light bulb. He didn't. So who did?",
-      "image": "incandescent light bulb 19th century"
-    }
+    {"text": "On October ninth, nineteen oh three, the New York Times published a prediction. A flying machine, it said, might be developed in a million to ten million years. Ten weeks later, two bicycle mechanics from Ohio proved the newspaper wrong. And the man the paper was mocking had been given about seventy thousand dollars, mostly of public money, to do it first.", "image": "New York Times 1903 newspaper", "overlay": "October 9, 1903", "visual": "a newspaper headline typing out; a calendar jumping ten weeks; a stack of money labelled \"public funds\"."},
+    {"text": "Samuel Pierpont Langley was the obvious favourite. Secretary of the Smithsonian Institution. A celebrated astronomer. Friends in Washington, a team of engineers, and the backing of the War Department. If anyone in America was going to fly, everyone assumed it would be him.", "image": "Samuel Pierpont Langley", "visual": "a name card for Langley with icons: Smithsonian, telescope, War Department, engineers; a crown over his head."},
+    {"text": "And he had proof of concept. In eighteen ninety-six, an unmanned, steam-powered model of his flew for about three-quarters of a mile over the Potomac River. That flight was enough to convince the government to open its wallet.", "image": "Langley Aerodrome model 1896", "overlay": "1896 · unmanned model flight", "visual": "a small steam-powered model gliding over a river; a government money bag opening."},
+    {"text": "Wilbur and Orville Wright ran a bicycle shop in Dayton, Ohio. Neither had a college degree. By their own account, they spent less than a thousand dollars on their first airplane, mostly from the money the shop made.", "image": "Wright Cycle Company Dayton Ohio", "overlay": "Budget: under $1,000", "visual": "a bicycle shop front; two name cards; two money bars side by side: $70,000 vs under $1,000."},
+    {"text": "Their curiosity started young. Their father brought home a toy helicopter made of cork, bamboo and paper, powered by a twisted rubber band. The boys played with it until it broke. Then they built their own.", "image": "Pénaud toy helicopter 1870s", "visual": "a toy helicopter lifting off; two boy silhouettes; the toy breaking, then two copies appearing."},
+    {"text": "In eighteen ninety-six, the German glider pioneer Otto Lilienthal died in a crash. The news pushed the brothers to think seriously about flight. And in eighteen ninety-nine, Wilbur wrote a letter to the Smithsonian, asking for everything it had on the subject. The Smithsonian sent back a reading list, including Langley's own papers. The very institution Langley led helped train the men who would beat him.", "image": "Otto Lilienthal glider", "overlay": "1899 · a letter to the Smithsonian", "visual": "a letter travelling to the Smithsonian; a reading list coming back; Langley's name on it."},
+    {"text": "But they had something Langley didn't: a different question. Langley believed flight was a power problem. Build a strong enough engine, a big enough wing, and the machine would rise. The Wrights thought the real problem was control. A bird doesn't just float. It steers, constantly. And a bicycle had taught them that something unstable can be balanced, if the rider adjusts it every second.", "image": "Wright brothers glider 1902", "visual": "two question cards: \"How do I get off the ground?\" vs \"How do I stay in control?\"; a bicycle balancing; a bird adjusting its wings."},
+    {"text": "As the story goes, the answer came from a cardboard box. Wilbur was idly twisting a long box that had held a bicycle inner tube. The box twisted at both ends, in opposite directions. He realised you could twist the tips of a wing the same way, to roll a plane left or right, the way a bird does.", "image": "wing warping Wright brothers diagram", "visual": "a long box being twisted; the same twist drawn on a wing; left and right roll arrows."},
+    {"text": "To test it, they needed wind and soft sand. The Weather Bureau pointed them to a remote strip of beach in North Carolina, called Kitty Hawk. There, in nineteen hundred and the years after, they flew gliders again and again, hundreds of glides, until their nineteen oh two machine could finally be controlled in three directions.", "image": "Kitty Hawk North Carolina dunes 1900s", "visual": "a map pin on Kitty Hawk; a glider gliding down a dune; three axes (roll, pitch, yaw) lighting up."},
+    {"text": "Then they hit a wall. The published data on wing lift, from Lilienthal, turned out to be wrong. Their gliders performed worse than predicted. So in the autumn of nineteen oh one, they built something no one in their business had ever needed. A wind tunnel. A wooden box with a fan.", "image": "Wright brothers wind tunnel replica", "overlay": "1901 · 200+ wing designs", "visual": "a chart with a predicted line vs a lower measured line; a wooden box with a fan appearing."},
+    {"text": "They tested over two hundred wing shapes. It cost almost nothing, and it gave them the best aerodynamic data in the world. The brothers weren't guessing anymore.", "image": "Wright brothers wind tunnel wing models", "visual": "wing cross-sections flipping past one after another; the best one highlighted in amber."},
+    {"text": "No engine maker could supply a motor light enough. So their shop mechanic, Charlie Taylor, built one in about six weeks. And the brothers designed their propellers as rotating wings, a problem no one had solved properly before.", "image": "Wright Flyer engine Charlie Taylor", "visual": "an engine diagram building itself; a propeller turning into a rotating wing cross-section."},
+    {"text": "Meanwhile, Langley's machine, the Great Aerodrome, was a feat of engineering muscle. Its engine produced about fifty horsepower, more than four times the Wrights' twelve. It was launched from the roof of a houseboat on the Potomac River, with a pilot named Charles Manly. But it gave the pilot very little control once it was in the air.", "image": "Langley Aerodrome houseboat Potomac", "visual": "a bar chart: 52 hp vs 12 hp; a houseboat with a catapult rail; a small pilot icon with a \"limited control\" tag."},
+    {"text": "On October seventh, nineteen oh three, it was launched. The machine caught on the launch rail and plunged straight into the river. Manly was pulled out, shaken but alive. Two days later, the Times wrote its million-year prediction.", "image": "Langley Aerodrome crash Potomac 1903", "visual": "the aerodrome catching on the rail and dropping into water; a rescue arrow; a calendar showing two days."},
+    {"text": "Langley had one more try. On December eighth, he launched again. This time the machine's rear structure tore apart, and the aerodrome fell into the Potomac once more. The government's money was gone. So was his reputation.", "image": "Langley Aerodrome December 1903 failed launch", "overlay": "December 8, 1903", "visual": "second launch, the rear structure breaking away, splash; the money bar draining to zero."},
+    {"text": "Six days later, the Wrights were ready at Kitty Hawk. On December fourteenth, they tossed a coin to decide who would try first. Wilbur won. He took off, climbed too steeply, and stalled. The Flyer settled into the sand with minor damage. It would take three days to repair it.", "image": "Wright Flyer December 14 1903 attempt", "visual": "a coin flipping; Wilbur's name lighting up; the Flyer climbing too steeply and settling; a repair timeline."},
+    {"text": "Then came the morning of December seventeenth, nine days after Langley's last crash. Orville Wright lay down on the lower wing of the Wright Flyer. At ten thirty-five, it lifted off the track. Twelve seconds. A hundred and twenty feet. Shorter than the wingspan of a jumbo jet.", "image": "Wright brothers first flight December 17 1903", "overlay": "December 17, 1903 · 12 seconds", "visual": "a 9-day timeline counting down; the Flyer lifting off a rail; a length bar: 120 ft vs a jumbo jet's wingspan."},
+    {"text": "Orville had set up a camera on a tripod, and asked a man from the nearby lifesaving station, John Daniels, to squeeze the bulb at the right moment. Daniels had never used a camera before. And his photograph, a fragile machine just off the ground, became one of the most famous images in history.", "image": "first flight photograph John Daniels", "visual": "a camera on a tripod; a bulb being squeezed; the famous image forming as a frame."},
+    {"text": "They flew four times that day. The last flight, with Wilbur at the controls, lasted fifty-nine seconds and covered eight hundred and fifty-two feet. For the first time, a human being had flown in a powered, controlled airplane. Only five people saw it happen.", "image": "Wright Flyer Kitty Hawk 1903 photograph", "overlay": "4 flights · 5 witnesses", "visual": "four flight arcs growing longer, the last labelled 59 s / 852 ft; five small figures on the sand."},
+    {"text": "That afternoon, Orville sent a telegram to their father. Success, four flights Thursday morning. Home for Christmas. A short sentence, for the biggest news of the century.", "image": "Orville Wright telegram December 1903", "visual": "a telegram form with the message typing out letter by letter; a Christmas date."},
+    {"text": "And the world barely noticed. Newspapers called the claim exaggerated. Many simply didn't believe it. The brothers kept improving their machine in a quiet field outside Dayton, with almost no audience, afraid of copycats until they had a patent and a buyer. It wasn't until nineteen oh eight, when Wilbur flew in France, that crowds finally saw it with their own eyes.", "image": "Wilbur Wright flight Le Mans 1908", "overlay": "1908 · Wilbur in France", "visual": "newspaper clippings with \"exaggerated\" stamps; an empty field; then a huge crowd in France looking up."},
+    {"text": "Langley died in nineteen oh six, after years of ridicule. But the story has one more cruel turn.", "image": "Smithsonian Institution Castle 1900s", "overlay": "1906", "visual": "a tombstone-style card with 1906; then a pause, large type: \"One more turn.\""},
+    {"text": "In a patent fight years later, a rival rebuilt Langley's aerodrome with major changes, and flew it. And the Smithsonian displayed that machine for years with a label calling it the first aeroplane in the history of the world capable of carrying a man in sustained free flight.", "image": "Langley Aerodrome Smithsonian display", "visual": "the aerodrome getting new parts added; a museum label appearing in typewriter type (paraphrase, not a quote)."},
+    {"text": "Orville was furious. In protest, he sent the original Wright Flyer, the machine that made history, to a museum in London. Not to Washington. To another country.", "image": "Wright Flyer Science Museum London", "visual": "an arrow from Dayton, crossing the Atlantic to London."},
+    {"text": "It stayed there for twenty years. Orville died in nineteen forty-eight. And the Wright Flyer finally came home to the Smithsonian that same year, where it hangs to this day.", "image": "Wright Flyer National Air and Space Museum", "visual": "a timeline 1928 -> 1948; an arrow returning across the Atlantic."},
+    {"text": "Langley had money, talent, and power. The Wrights had a question nobody else was asking. Not how do we leave the ground? But how do we stay in control once we're up there?", "image": "Wright brothers airplane flying 1908", "visual": "the two question cards from the start return; the second glows amber."},
+    {"text": "A million to ten million years. That was the prediction. It took ten weeks.", "image": "Wright Flyer 1903 first flight Orville Wilbur", "visual": "the original headline with \"1,000,000 years\" crossed out and \"10 weeks\" written beside it."},
+    {"text": "Next time: everyone says Thomas Edison invented the light bulb. He didn't. So who did?", "image": "incandescent light bulb 19th century", "visual": "a light bulb with a question mark; end card: channel name."}
   ]
 }
