@@ -1,0 +1,113 @@
+VIDEO — "Who Really Invented the Computer? A Court Decided in 1973."
+
+SCENE 1
+NARRATION: On October nineteenth, nineteen seventy-three, a federal judge in Minneapolis made a ruling that rewrote the history of the computer. The most famous computer in the world, he said, was not quite what everyone believed. Its inventors, he wrote, had taken a key idea from a professor in Iowa whom almost nobody had heard of. This is the story of the machine that filled a room, the man who built a better idea in a university basement, and the court case that finally settled it.
+ON-SCREEN TEXT: October 19, 1973
+VISUAL: a courtroom door opening; a gavel; a date appears; a split screen: a huge machine vs a small basement lab.
+
+SCENE 2
+NARRATION: To understand it, go back to nineteen forty-six. Newspapers called it a giant brain. ENIAC weighed about thirty tons, filled a huge room, and used over seventeen thousand vacuum tubes. Walking inside it, someone said, was like walking inside a machine made of glowing glass.
+ON-SCREEN TEXT: ~17,000 vacuum tubes · 30 tons
+VISUAL: a tube counter rising; a person silhouette beside a wall of tubes; a weight scale showing 30 tons.
+
+SCENE 3
+NARRATION: It had been built for the United States Army, to calculate artillery firing tables. And back then, the word computer didn't mean a machine. It meant a person, usually a woman, who did calculations by hand, for hours, for days. ENIAC could do in seconds what took them days.
+VISUAL: a woman at a desk calculator with a stack of tables; a stopwatch: days vs seconds.
+
+SCENE 4
+NARRATION: Its creators were John Mauchly and J. Presper Eckert, at the University of Pennsylvania. For decades, they were called the inventors of the electronic computer. And if the story ended there, it would be a simple one.
+ON-SCREEN TEXT: Mauchly & Eckert
+VISUAL: two name cards; a banner reading "inventors of the electronic computer"; a question mark sliding in.
+
+SCENE 5
+NARRATION: But years earlier, hundreds of miles away in Ames, Iowa, a physics professor named John Atanasoff was fighting a different battle. His work meant solving huge systems of equations with a mechanical calculator, one number at a time, for weeks. He was exhausted. And he was convinced there had to be a better way.
+ON-SCREEN TEXT: John Atanasoff
+VISUAL: Atanasoff's name card; a desk calculator with a growing pile of equations; a calendar flipping weeks.
+
+SCENE 6
+NARRATION: One winter night in nineteen thirty-seven, so the story goes, he got into his car and drove, fast, for hours, until he crossed the Mississippi River into Illinois. He stopped at a roadside tavern, ordered a drink, and the ideas started to come.
+VISUAL: a car on a night road; a bridge over a wide river; a small tavern with a glowing window; ideas appearing as sparks.
+
+SCENE 7
+NARRATION: There were four, he later said. Use electricity and electronics, not gears. Use binary, ones and zeros, instead of decimal. Store numbers in small electrical components called capacitors. And do the calculating directly with electronic switches. Put together, those four ideas describe how nearly every computer works today.
+VISUAL: four cards appearing one by one (electronics, binary, capacitors, switches); then a modern phone chip assembling from them.
+
+SCENE 8
+NARRATION: With a gifted graduate student, Clifford Berry, he built it, in the basement of the physics building. The Atanasoff–Berry Computer, the ABC. About three hundred vacuum tubes. It could solve up to twenty-nine equations at once. It couldn't be programmed for other jobs. But it was electronic. Digital. Binary.
+ON-SCREEN TEXT: The ABC · ~300 tubes
+VISUAL: a basement lab; two name cards (Atanasoff, Berry); a machine drawing in; a "29 equations" label.
+
+SCENE 9
+NARRATION: Then the war came. Atanasoff left for a navy job. The patent application, as the story goes, was never completed. And the ABC sat in the basement, forgotten, until years later it was dismantled to make room for something else.
+VISUAL: a calendar with war years; a patent folder left unfinished on a desk; the machine being taken apart piece by piece.
+
+SCENE 10
+NARRATION: But in June of nineteen forty-one, a visitor came to Iowa. John Mauchly, a physics professor from Pennsylvania, had been writing to Atanasoff about his machine. Atanasoff invited him to stay. For several days, Mauchly saw the machine, asked questions, and read its manual.
+ON-SCREEN TEXT: June 1941 · Mauchly visits Iowa
+VISUAL: a train arriving; two men leaning over the ABC; a manual with pages turning; a calendar showing several days.
+
+SCENE 11
+NARRATION: Mauchly went home. Within two years, he and Eckert had written a proposal for the Army: an electronic machine that could calculate at incredible speed. The Army said yes. That machine became ENIAC.
+VISUAL: a proposal paper; an army stamp reading "approved"; a blueprint turning into ENIAC.
+
+SCENE 12
+NARRATION: ENIAC was far bigger, and far more ambitious. It was general-purpose, it could be programmed for different problems, and it was roughly a thousand times faster than the machines that came before it. Whatever its roots, it was a genuine milestone.
+VISUAL: a speed bar: older machines vs ENIAC at ~1,000x; a list of tasks lighting up (artillery, weather, physics).
+
+SCENE 13
+NARRATION: And here's a part of the story that was almost lost. ENIAC had no keyboard and no screen. To program it, you rewired it: plugging cables and setting thousands of switches. The people who did it were six young women: Kathleen McNulty, Jean Jennings, Betty Snyder, Marlyn Wescoff, Frances Bilas, and Ruth Lichterman. When ENIAC was unveiled to the world in nineteen forty-six, they were not introduced.
+ON-SCREEN TEXT: Six women. Not introduced.
+VISUAL: a wall of cables; six name cards appearing one by one; a spotlight on the machine while the six stand in the shadow.
+
+SCENE 14
+NARRATION: Eckert and Mauchly patented their machine. The patent was eventually granted in nineteen sixty-four, and it ended up in the hands of a company called Sperry Rand. Soon, Sperry Rand was demanding royalties from nearly every computer maker in America.
+ON-SCREEN TEXT: 1964 · The ENIAC patent
+VISUAL: a patent paper with a stamp; arrows of money flowing from many companies into one.
+
+SCENE 15
+NARRATION: One of those companies, Honeywell, refused to pay. In nineteen sixty-seven, it sued, arguing the patent was invalid. And to prove it, Honeywell's lawyers went looking into the past. They found John Atanasoff.
+ON-SCREEN TEXT: 1967 · Honeywell sues
+VISUAL: two company logos facing each other; a detective-style file search; Atanasoff's name card sliding into view.
+
+SCENE 16
+NARRATION: The trial ran for months. Atanasoff testified. So did Mauchly. And letters that Mauchly had once sent to Atanasoff, in the nineteen-forties, praising his machine, became evidence.
+VISUAL: a witness stand; two chairs; a stack of old letters becoming exhibits.
+
+SCENE 17
+NARRATION: On October nineteenth, nineteen seventy-three, Judge Earl Larson delivered his decision. The ENIAC patent was invalid. And he wrote that Eckert and Mauchly had not themselves first invented the automatic electronic digital computer, but had derived that subject matter from Dr. John Vincent Atanasoff.
+ON-SCREEN TEXT: "derived... from Dr. John Vincent Atanasoff"
+VISUAL: the ruling text typing out; the word "derived" highlighted in amber.
+
+SCENE 18
+NARRATION: It's worth being careful here. The judge did not say ENIAC wasn't important. It was. The ABC wasn't a programmable general-purpose machine, and ENIAC was. What the court said is that a key idea had come from someone else, so no one could own it.
+VISUAL: two machines side by side with feature check-lists: ABC (electronic, binary) vs ENIAC (programmable, general-purpose); the overlap highlighted.
+
+SCENE 19
+NARRATION: And the story is even bigger than that. In Germany, Konrad Zuse built working programmable computers during the war. In Britain, codebreakers built Colossus to crack German messages, and it was so secret that the world didn't learn about it until the nineteen-seventies. The computer wasn't born in one place. It was born in several, almost at once.
+VISUAL: a world map with four pins: Iowa, Pennsylvania, Germany, Britain; lines of light connecting them; a "secret until the 1970s" label on Britain.
+
+SCENE 20
+NARRATION: Atanasoff never became rich from his invention. But recognition came, slowly. In nineteen ninety, when he was in his late eighties, President George H. W. Bush awarded him the National Medal of Technology. The machine in the basement had long been scrapped. His ideas had not.
+ON-SCREEN TEXT: 1990 · National Medal of Technology
+VISUAL: an old man receiving a medal; the scrapped machine as a faint outline; the four ideas glowing.
+
+SCENE 21
+NARRATION: The women of ENIAC waited much longer. For decades, their names were missing from the story. It wasn't until researchers began tracking them down, in the nineteen-eighties and after, that the world learned who had actually made the machine work.
+VISUAL: six name cards finally appearing on a plaque; a slow zoom in on their faces.
+
+SCENE 22
+NARRATION: ENIAC could perform about five thousand additions per second. The phone in your pocket can do billions of operations every second. Millions of times faster, running on a battery, in your hand. The machine that once filled a room now fits in a pocket.
+ON-SCREEN TEXT: ~5,000 additions/sec vs billions
+VISUAL: a room-sized machine shrinking into a phone; two speed bars: tiny vs enormous.
+
+SCENE 23
+NARRATION: So the first computer wasn't one machine, or one genius. It was a handful of ideas, passed from hand to hand. Some were patented. Some were scrapped in a basement. And the people who made them work often never saw their names on the door.
+VISUAL: a relay-race of ideas moving through names on a timeline; some names fading, some glowing.
+
+SCENE 24
+NARRATION: Think of that courtroom in Minneapolis. A judge said out loud what some historians had been whispering for years: that the machine that filled a room had borrowed part of its brain from a basement in Iowa. Because the history of an invention is almost never tidy.
+VISUAL: the opening courtroom door returning; the gavel; "never tidy" appearing in large type.
+
+SCENE 25
+NARRATION: Next time: a company that swore it would never make a phone. And then secretly built the one that changed everything. The story of the iPhone.
+VISUAL: a phone silhouette, with a "never" crossed out; end card: channel name.
