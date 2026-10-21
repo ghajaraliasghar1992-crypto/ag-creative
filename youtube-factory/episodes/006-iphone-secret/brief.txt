@@ -1,0 +1,99 @@
+VIDEO — "Apple Never Wanted to Make a Phone. Then It Built the iPhone in Secret."
+
+SCENE 1
+NARRATION: On January ninth, two thousand seven, Steve Jobs stood on a stage in San Francisco and held up a phone. The crowd roared. What the audience didn't know was that the phone could crash at any moment. Behind the curtain, it only worked if you tapped in an exact order. Step even slightly off that path, and the whole thing could fall apart. This is the story of how Apple, a company that wasn't sure it even wanted to make a phone, built the iPhone in secret.
+ON-SCREEN TEXT: January 9, 2007
+VISUAL: a stage spotlight; a phone held up; a fragile dotted "safe path" over the screen; one step off the path and a crash icon flickers.
+
+SCENE 2
+NARRATION: To feel how wild that moment was, rewind to two thousand five. The best phones had tiny screens, plastic buttons, and software that the phone companies controlled. Nokia and BlackBerry ruled the world. And at Apple, the iPod was printing money. Apple didn't need a phone.
+VISUAL: a row of buttoned phones (Nokia, BlackBerry) ; an iPod with money flowing into it; a sign: "Do we need a phone?"
+
+SCENE 3
+NARRATION: But there was a problem. Phones were learning to play music. If a phone could do what an iPod did, who would carry both? Apple's most successful product was suddenly under threat. Steve Jobs didn't like the idea of being swallowed. But, according to people who worked there, he disliked the phone industry even more.
+VISUAL: an iPod shrinking as a phone icon grows around it; a thought bubble: "swallowed".
+
+SCENE 4
+NARRATION: So in two thousand five, Apple tried the easy way: a partnership with Motorola. The result was the ROKR, a phone with iTunes. It was clunky. It held about a hundred songs. And Jobs, reportedly, hated it.
+ON-SCREEN TEXT: 2005 · Motorola ROKR
+VISUAL: a bulky phone with a "100 songs" counter; a thumbs-down.
+
+SCENE 5
+NARRATION: That failure pushed Apple to try something harder. Inside the company, two ideas began to compete. One team, around the iPod, imagined a phone with the famous click wheel. Another team was experimenting with something far stranger: a screen you control with your fingers.
+VISUAL: two lab doors; behind one, a click-wheel phone; behind the other, a glowing touchscreen.
+
+SCENE 6
+NARRATION: Touchscreens weren't new. But a screen that understood several fingers at once, to scroll with a flick, to zoom with a pinch, was. Apple had even bought a small company called FingerWorks, which specialised in that technology. Then Jobs saw a demo. And, as the story goes, he looked at it and said: let's build a phone with this.
+ON-SCREEN TEXT: Multi-touch
+VISUAL: a finger pinching an image to zoom; two fingers rotating; a company name tag: FingerWorks.
+
+SCENE 7
+NARRATION: That meant a decision. Drop the click-wheel phone and go all in on the touchscreen. If it failed, Apple would have bet its reputation on something nobody had built before: a phone with no keyboard at all.
+VISUAL: a fork in the road; one path, "click wheel", fading; the other, "touchscreen", glowing; a keyboard being crossed out.
+
+SCENE 8
+NARRATION: They called it Project Purple. Engineers were pulled from other teams. A floor of a building was sealed off. According to people who were there, the door sign read: Fight Club. The first rule of Fight Club: you do not talk about Fight Club. They worked nights and weekends, and almost no one outside knew what they were building.
+ON-SCREEN TEXT: Project Purple
+VISUAL: a sealed door with a purple tag; a "Fight Club" sign; engineers' silhouettes working at night; a clock showing late hours.
+
+SCENE 9
+NARRATION: Jobs also wanted something no phone maker had ever had: control. Normally, the carriers decided what went on a phone. Jobs wanted Apple to decide. And the carrier Cingular, later AT&T, reportedly agreed to deal with Apple on those terms, without even seeing the product.
+VISUAL: a carrier handing a big key to Apple; a closed box labelled "phone" the carrier cannot see inside.
+
+SCENE 10
+NARRATION: Late in development, the story goes, Jobs pulled a prototype out of his pocket. Its plastic screen was covered in scratches from his keys. He wanted glass. Corning, a glassmaker, had a tough formula it had developed decades earlier, and reportedly delivered in a matter of months. Glass, on a phone, was a risk. But it made the iPhone feel like something new.
+ON-SCREEN TEXT: Glass, not plastic
+VISUAL: a scratched plastic screen; a hand with keys; a pane of glass being hit and surviving.
+
+SCENE 11
+NARRATION: Then came the day. Jobs told the crowd Apple was introducing three revolutionary products: a widescreen iPod with touch controls, a revolutionary phone, and a breakthrough internet device. He repeated it. Then he explained they weren't three separate devices. They were one. And Apple was calling it iPhone.
+VISUAL: three icons (iPod, phone, internet) spinning, then merging into one device labelled "iPhone".
+
+SCENE 12
+NARRATION: But behind that smooth demo, the phone was fragile. According to people who worked on it, engineers had mapped out an exact sequence for Jobs to follow, a path that was known to work. Several backup phones waited offstage. One wrong tap could have ended the show.
+ON-SCREEN TEXT: The "golden path"
+VISUAL: a dotted path of taps; backup phones lined up in the dark; a hand hovering over a wrong button.
+
+SCENE 13
+NARRATION: It worked. The crowd cheered as Jobs pinched, scrolled, and flicked through photos. He even pulled a prank, calling a Starbucks and jokingly ordering four thousand lattes to go. The audience laughed. Behind the curtain, a hundred engineers exhaled.
+VISUAL: a phone calling "Starbucks"; a speech bubble: "4,000 lattes"; a relieved crowd.
+
+SCENE 14
+NARRATION: Not everyone was convinced. Microsoft's Steve Ballmer laughed at the price in an interview. Five hundred dollars, he said, for a phone with no keyboard, the most expensive phone in the world, and not something business customers would want. And the head of Palm had earlier said PC makers would not just figure out how to make a phone.
+ON-SCREEN TEXT: "The most expensive phone in the world"
+VISUAL: a laughing figure; a $500 price tag growing large; a keyboard icon with a check beside it.
+
+SCENE 15
+NARRATION: On June twenty-ninth, two thousand seven, the iPhone went on sale. People lined up outside stores, some for days. The cheapest model cost four hundred and ninety-nine dollars, with a two-year contract. Apple sold over a million in the months that followed.
+ON-SCREEN TEXT: June 29, 2007 · $499
+VISUAL: a long line outside a store at night; a price tag; a counter climbing to one million.
+
+SCENE 16
+NARRATION: And it wasn't perfect. The first iPhone couldn't copy and paste. It ran on a slow network. It had no App Store. In fact, Jobs didn't want outsiders writing apps for it at all. But a year later, in two thousand eight, Apple changed its mind and opened the App Store. The phone stopped being a gadget, and became a platform.
+ON-SCREEN TEXT: 2008 · App Store
+VISUAL: a feature checklist with several crossed out; an app grid appearing; the word "platform".
+
+SCENE 17
+NARRATION: And here's the part that makes this story special. The iPhone didn't just beat other phones. Within a few years, it began to replace Apple's own iPod, the product that had made the company rich. Remember Kodak? Apple did what Kodak couldn't. It risked its own best product, before someone else did it for them.
+VISUAL: the Kodak film-profit loop returning; an iPod shrinking as an iPhone grows; the words "disrupt yourself".
+
+SCENE 18
+NARRATION: The rivals paid the price. In two thousand eleven, the boss of Nokia, once the biggest phone maker in the world, sent a memo to his employees. It said they were standing on a burning platform. BlackBerry, the favourite of business, would also fall behind.
+ON-SCREEN TEXT: 2011 · "A burning platform"
+VISUAL: a platform with flames; Nokia and BlackBerry logos sliding down; a memo page.
+
+SCENE 19
+NARRATION: Within a few years, the iPhone had become Apple's biggest business. And the phone in everyone's pocket began to replace cameras, maps, music players, and even wallets. A device nobody was sure Apple should build, became the device that changed how billions of people live.
+VISUAL: a phone in the middle; icons (camera, map, music, wallet) flying into it; a crowd of hands holding phones.
+
+SCENE 20
+NARRATION: The lesson isn't that Apple invented everything. Touchscreens existed. Multi-touch was developed by others. Apple's skill was in combining a dozen ideas into one device that made sense, and in being willing to risk its own cash cow to build it.
+VISUAL: a dozen small icons merging into one clean device; a cash cow icon beside it with a question mark.
+
+SCENE 21
+NARRATION: Think of that demo again, with its fragile path. Behind every product that looks effortless, there are often engineers holding their breath. The best inventions rarely look like they almost failed. But very often, they did.
+VISUAL: the opening stage returns; the dotted path; the engineers' silhouettes behind the curtain.
+
+SCENE 22
+NARRATION: Next time: the first message ever sent on the internet. It was supposed to be a single word. It crashed after two letters.
+VISUAL: two computers connected by a wire; a message typing: L, O, and then a crash; end card: channel name.
